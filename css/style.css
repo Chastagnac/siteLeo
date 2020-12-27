@@ -1,0 +1,225 @@
+* {
+    font-family: "Poppins SemiBold";
+}
+body {
+    background-image: url("../assets/images/Background.png");
+    --interval-width: 500px;
+    background-size: var(--interval-width) auto;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+/* Section 1*/
+
+#sec-1 .container{
+    font-weight: 100;
+    align-content: center;
+    height: 100%;
+    margin: 0 auto;
+}
+
+
+.logo, .slogan{
+    text-align: center;
+    animation-name: logoFade;
+    animation-duration: 5s;
+}
+
+.slogan{
+    font-size: 30px;
+    color : #2b3345;
+    text-align: center;
+    height: 10px;
+    line-height: 20%;
+    padding-top: 100px;
+}
+
+.imgMove1{
+    filter: drop-shadow(11px 20px 8px rgba(0,0,2,.4));
+    padding-top: 75px;
+    padding-left: 300px;
+    padding-right: 450px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgMove2{
+    filter: drop-shadow(11px 20px 8px rgba(0,0,2,.4));
+    padding-left: 150px;
+    padding-right: 240px;
+    display: flex;
+    margin-top: -200px;
+    justify-content: space-between;
+}
+
+
+
+.img1{
+    filter: blur(1.5px);
+    width: 150px;
+    height: 150px;
+    animation-name: animationFrames;
+    animation-iteration-count: infinite;
+    animation-name: animFloat;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+.img2{
+
+    filter: blur(1px);
+    width: 100px;
+    height: 90px;
+    margin-right: 180px;
+    animation-name: animFloat;
+    animation-duration: 14s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+.img3{
+    filter: blur(6px);
+    width: 350px;
+    height: 350px;
+    animation-name: animFloat2;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+.img4{
+    filter: blur(4px);
+    width: 250px;
+    height: 250px;
+    animation-name: animFloat;
+    animation-duration: 22s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+
+}
+
+
+/* Section 2 */
+
+
+.container {
+    position: relative;
+    width: 100%;
+    height: 200px
+}
+
+
+.image__img{
+    display: block;
+    width: 100%;
+}
+.title{
+    border-radius: 10px;
+    margin-top: 300px;
+    margin-left: 100px;
+    font-size: 50px;
+    color: #fff;
+    border-width: 5px;
+    border-style: double;
+    text-align: center;
+    display: inline-flex;
+    border-color: black;
+}
+
+
+.image__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.texte{
+    color: #fff;
+    text-align: justify;
+    margin: 100px;
+    width: 800px;
+    display: table-cell;
+    padding-left: 100px;
+}
+
+/* Section 3 */
+.sec-3{
+
+    padding-top: 500px;
+    margin : 150px;
+}
+.sec-3 h2{
+    font-size: 40px;
+    color : #2b3345;
+    text-align: center;
+}
+
+@keyframes logoFade {
+    0% {
+        filter: blur(1.5rem);
+        opacity : 0;
+    }
+    0% {
+        filter: blur(0.75rem);
+        opacity : 0;
+    }
+    100% {
+        filter: blur(0rem);
+        opacity : 1;
+    }
+}
+
+@keyframes animFloat {
+    0% {
+        transform:  translate(0px,0px)  ;
+    }
+    18% {
+        transform:  translate(45px,20px)  ;
+    }
+    35% {
+        transform:  translate(45px,40px)  ;
+    }
+    53% {
+        transform:  translate(0px,60px)  ;
+    }
+    70% {
+        transform:  translate(-45px,40px)  ;
+    }
+    90% {
+        transform:  translate(-45px,20px)  ;
+    }
+    100% {
+        transform:  translate(0px,0px)  ;
+    }
+}
+
+@keyframes animFloat2 {
+    0% {
+        transform:  translate(0px,0px)  ;
+    }
+    18% {
+        transform:  translate(-45px,20px)  ;
+    }
+    35% {
+        transform:  translate(-45px,40px)  ;
+    }
+    53% {
+        transform:  translate(0px,60px)  ;
+    }
+    70% {
+        transform:  translate(45px,40px)  ;
+    }
+    90% {
+        transform:  translate(45px,20px)  ;
+    }
+    100% {
+        transform:  translate(0px,0px)  ;
+    }
+}
