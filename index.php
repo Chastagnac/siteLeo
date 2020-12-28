@@ -123,7 +123,7 @@ and open the template in the editor.
                 </div>
                 <!-- flèche centrale -->
                 <div class="fleche">
-                    
+                    <img src="assets/images/Sans titre.png" alt=""/>
                 </div>
                 <!--  partie droite!-->
                 <div class="ex-sco">
