@@ -158,22 +158,16 @@
         </div>
     </section>
     <section id="sec-4">
-        <div class="container">
-            <div class="button">
+        <div class="container4">
                 <ul>
-                    <li><i class="fab fa-battle-net"></i>
+                    <li><a class="fab fa-battle-net" href="page/project.php"></a>
                         <p>Projet</p>
                     </li>
 
-                    <li><i class="fas fa-stopwatch-20" data-rellax-speed="7"></i>
+                    <li><a class="fas fa-stopwatch-20" href="page/veille.php"></a>
                         <p>Veille</p>
                     </li>
-
-                    <li><i class="fas fa-envelope-open-text" data-rellax-speed="7"></i>
-                        <p>Contact</p>
-                    </li>
                 </ul>
-            </div>
         </div>
     </section>
     <section id="sec-5">

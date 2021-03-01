@@ -211,16 +211,20 @@ body {
 
 
 /** sec-4 **/
-
-#sec-4 .container ul {
+#sec-4 .container4 {
+    margin-top: 1200px;
+    justify-content: center;
+    display: flex;
+    margin-right: 900px;
+}
+#sec-4 .container4 ul {
     display: flex;
     justify-content: center;
     font-size: 4em;
-    float: left;
-    margin-left: 18%;
+
 }
 
-#sec-4 .container li {
+#sec-4 .container4 li {
     margin: 70px;
     height: 200px;
     color: #2d324a;
@@ -234,32 +238,34 @@ body {
     box-shadow: 16px 16px 33px #d6d1d1, -16px -16px 33px #d6d1d1;
 }
 
-#sec-4 .container ul p {
+#sec-4 .container4 ul p {
     font-size: 25px;
     margin-left: 10px;
     display: flex;
     justify-content: center;
 }
 
-#sec-4 .container li:hover {
+#sec-4 .container4 li:hover {
     box-shadow: inset 16px 16px 33px #d6d1d1, inset -16px -16px 33px #d6d1d1;
 }
 
-#sec-4 .container li:nth-child(1) {
+#sec-4 .container4 li:nth-child(1) {
     color: #002f9e;
 }
 
-#sec-4 .container li:nth-child(2) {
+#sec-4 .container4 li:nth-child(2) {
     color: #0f49cfcc;
 }
 
-#sec-4 .container li:nth-child(3) {
+#sec-4 .container4 li:nth-child(3) {
     color: #374463;
 }
 
 
 /** Section 5 **/
-
+#sec-5 {
+    margin-top: 200px;
+}
 .contact {
     display: flex;
     height: 50vh;
