@@ -1,0 +1,347 @@
+* {
+    font-family: "Poppins SemiBold";
+}
+
+body {
+    background-image: url("../assets/images/Background.png");
+    --interval-width: 500px;
+    background-size: var(--interval-width) auto;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Section 1*/
+
+.logo img {
+    max-width: 100%;
+    margin: 5px;
+}
+
+#sec-1 .container {
+    font-weight: 100;
+    align-content: center;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.logo,
+.slogan {
+    text-align: center;
+    animation-name: logoFade;
+    animation-duration: 5s;
+}
+
+.slogan {
+    font-size: 30px;
+    color: #2b3345;
+    text-align: center;
+    line-height: 20%;
+    padding-top: 100px;
+}
+
+.imgMove1 {
+    filter: drop-shadow(11px 20px 8px rgba(0, 0, 2, 0.4));
+    padding-top: 75px;
+    padding-left: 300px;
+    padding-right: 450px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgMove2 {
+    filter: drop-shadow(11px 20px 8px rgba(0, 0, 2, 0.4));
+    padding-left: 150px;
+    padding-right: 240px;
+    display: flex;
+    margin-top: -200px;
+    justify-content: space-between;
+}
+
+.img1 {
+    width: 150px;
+    height: 150px;
+    animation-name: animationFrames;
+    animation-iteration-count: infinite;
+    animation-name: animFloat;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.img2 {
+    filter: blur(1px);
+    width: 150px;
+    height: 150px;
+    margin-right: 180px;
+    animation-name: animFloat;
+    animation-duration: 17s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.img3 {
+    filter: blur(6px);
+    width: 350px;
+    height: 350px;
+    animation-name: animFloat2;
+    animation-duration: 13s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.img4 {
+    filter: blur(4px);
+    width: 250px;
+    height: 250px;
+    animation-name: animFloat;
+    animation-duration: 22s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+
+/* Section 2 */
+
+.container {
+    position: relative;
+    width: 100%;
+    height: 220px;
+}
+
+.image__img {
+    display: block;
+    width: 100%;
+}
+
+.title {
+    border-radius: 10px;
+    margin-top: 300px;
+    margin-left: 100px;
+    font-size: 50px;
+    color: #fff;
+    border-width: 5px;
+    border-style: double;
+    text-align: center;
+    display: inline-flex;
+    border-color: black;
+}
+
+.image__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.texte {
+    color: #fff;
+    text-align: justify;
+    margin: 100px;
+    width: 800px;
+    display: table-cell;
+    padding-left: 100px;
+}
+
+
+/* fleche */
+
+.fleche {
+    display: contents;
+}
+
+
+/* Section 3 */
+
+.container2 {
+    padding-top: 300px;
+    margin: 250px;
+}
+
+.sec-3 h2 {
+    font-size: 30px;
+    color: #324268;
+    text-align: center;
+}
+
+.ex-Pro {
+    float: left;
+    width: 45%;
+    margin-right: 62px;
+}
+
+.ex-sco {
+    float: right;
+    width: 45%;
+}
+
+.date {
+    color: darkred;
+    filter: drop-shadow(2px 2px 10px rgb(78, 0, 0));
+    display: flex;
+    float: right;
+}
+
+.lieu {
+    color: #2b3345;
+    font-size: 16px;
+    margin-left: 10px;
+    margin: 30px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.trait_dessus {
+    margin-top: 40px;
+    width: 70%;
+    margin-left: 20%;
+}
+
+.profession {
+    color: #452b2b;
+    font-size: 20px;
+}
+
+.details {
+    margin-top: 13px;
+    text-align: justify;
+    width: 75%;
+}
+
+
+/** sec-4 **/
+
+#sec-4 .container ul {
+    display: flex;
+    justify-content: center;
+    font-size: 4em;
+    float: left;
+    margin-left: 18%;
+}
+
+#sec-4 .container li {
+    margin: 70px;
+    height: 200px;
+    color: #2d324a;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 205px;
+    border-radius: 50%;
+    background: #f5f1f7;
+    box-shadow: 16px 16px 33px #d6d1d1, -16px -16px 33px #d6d1d1;
+}
+
+#sec-4 .container ul p {
+    font-size: 25px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#sec-4 .container li:hover {
+    box-shadow: inset 16px 16px 33px #d6d1d1, inset -16px -16px 33px #d6d1d1;
+}
+
+#sec-4 .container li:nth-child(1) {
+    color: #002f9e;
+}
+
+#sec-4 .container li:nth-child(2) {
+    color: #0f49cfcc;
+}
+
+#sec-4 .container li:nth-child(3) {
+    color: #374463;
+}
+
+
+/** Section 5 **/
+
+.contact {
+    display: flex;
+    height: 50vh;
+    width: 50%;
+    margin-bottom: 100px;
+    float: left;
+    margin-left: 25%;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    background-color: #324268;
+}
+
+
+/** footer **/
+
+footer {
+    background: #000000;
+    bottom: 0;
+    display: flex;
+    width: 100%;
+    height: 100px;
+}
+
+@keyframes logoFade {
+    0% {
+        filter: blur(1.5rem);
+        opacity: 0;
+    }
+    0% {
+        filter: blur(0.75rem);
+        opacity: 0;
+    }
+    100% {
+        filter: blur(0rem);
+        opacity: 1;
+    }
+}
+
+@keyframes animFloat {
+    0% {
+        transform: translate(0px, 0px);
+    }
+    18% {
+        transform: translate(45px, 20px);
+    }
+    35% {
+        transform: translate(45px, 40px);
+    }
+    53% {
+        transform: translate(0px, 60px);
+    }
+    70% {
+        transform: translate(-45px, 40px);
+    }
+    90% {
+        transform: translate(-45px, 20px);
+    }
+    100% {
+        transform: translate(0px, 0px);
+    }
+}
+
+@keyframes animFloat2 {
+    0% {
+        transform: translate(0px, 0px);
+    }
+    18% {
+        transform: translate(-45px, 20px);
+    }
+    35% {
+        transform: translate(-45px, 40px);
+    }
+    53% {
+        transform: translate(0px, 60px);
+    }
+    70% {
+        transform: translate(45px, 40px);
+    }
+    90% {
+        transform: translate(45px, 20px);
+    }
+    100% {
+        transform: translate(0px, 0px);
+    }
+}
