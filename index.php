@@ -160,11 +160,11 @@
     <section id="sec-4">
         <div class="container4">
                 <ul>
-                    <li><a class="fab fa-battle-net" href="page/project.php"></a>
+                    <li><a class="fab fa-battle-net" href="page/project.php" style="text-decoration: none; color: #202b61;"></a>
                         <p>Projet</p>
                     </li>
 
-                    <li><a class="fas fa-stopwatch-20" href="page/veille.php"></a>
+                    <li><a class="fas fa-stopwatch-20" href="page/veille.php" style="text-decoration: none; color: #202b61;"></a>
                         <p>Veille</p>
                     </li>
                 </ul>

@@ -98,20 +98,12 @@
 
 /** section 4 **/
 
-@media screen and (max-width: 1080px) {
+@media screen and (max-width: 1337px) {
   #sec-4 .container ul {
     /* display: flex; */
     justify-content: center;
     font-size: 3em;
     justify-content: center;
   }
-  #sec-4 .container ul {
-    font-size: 2em;
-    display: block;
-  }
 
-  #sec-4 .container li {
-    height: 150px;
-    width: 150px;
-  }
 }

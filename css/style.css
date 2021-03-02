@@ -4,7 +4,7 @@
 
 body {
     background-image: url("../assets/images/Background.png");
-    --interval-width: 500px;
+    --interval-width: 200px;
     background-size: var(--interval-width) auto;
     margin: 0;
     padding: 0;
@@ -249,18 +249,6 @@ body {
     box-shadow: inset 16px 16px 33px #d6d1d1, inset -16px -16px 33px #d6d1d1;
 }
 
-#sec-4 .container4 li:nth-child(1) {
-    color: #002f9e;
-}
-
-#sec-4 .container4 li:nth-child(2) {
-    color: #0f49cfcc;
-}
-
-#sec-4 .container4 li:nth-child(3) {
-    color: #374463;
-}
-
 
 /** Section 5 **/
 #sec-5 {
@@ -277,7 +265,6 @@ body {
     border-bottom-right-radius: 100px;
     background-color: #324268;
 }
-
 
 /** footer **/
 
