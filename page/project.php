@@ -16,7 +16,9 @@
 <body>
     <section id="sec-1">
         <div class="bandeau">
-            <h1 class="bandeau-title">Projects</h1>
+            <h3>Projets</h3>
+            <p>Vous retrouverer ici des projets d'étudiant mais</p>
+            <p>également des projets personnels.</p>
         </div>
     </section>
 </body>

@@ -1,5 +1,5 @@
 * {
-    font-family: "Poppins SemiBold";
+    font-family: "Poppins";
 }
 
 body {
@@ -144,13 +144,11 @@ body {
     padding-left: 100px;
 }
 
-
 /* fleche */
 
 .fleche {
     display: contents;
 }
-
 
 /* Section 3 */
 
@@ -212,7 +210,7 @@ body {
 
 /** sec-4 **/
 #sec-4 .container4 {
-    margin-top: 1200px;
+    margin-top: 1400px;
     justify-content: center;
     display: flex;
     margin-right: 900px;
