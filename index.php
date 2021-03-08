@@ -11,6 +11,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.12.1/rellax.min.js"></script>
     <script src="https://kit.fontawesome.com/d7d3f46c80.js" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/scrollreveal"></script>
+
 </head>
 
 <body>
@@ -148,6 +149,9 @@
                         <div class="lieu">Bac Professionnel spécialité SN</div>
                         <div class="date">2016</div>
                     </div>
+                    <div class="trait_dessus">
+                        <hr>
+                    </div>
                     <div class="col-2">
                         <div class="profession"><br>Etudes supérieures</div>
                         <div class="details">Baccalauréat Professionnel "Système Numériques"
@@ -159,27 +163,255 @@
     </section>
     <section id="sec-4">
         <div class="container4">
-                <ul>
-                    <li><a class="fab fa-battle-net" href="page/project.php" style="text-decoration: none; color: #202b61;"></a>
-                        <p>Projet</p>
-                    </li>
+            <ul>
+                <li><a class="fab fa-battle-net" href="page/project.php" style="text-decoration: none; color: #202b61;"></a>
+                    <p>Projet</p>
+                </li>
 
-                    <li><a class="fas fa-stopwatch-20" href="page/veille.php" style="text-decoration: none; color: #202b61;"></a>
-                        <p>Veille</p>
-                    </li>
-                </ul>
+                <li><a class="fas fa-stopwatch-20" href="page/veille.php" style="text-decoration: none; color: #202b61;"></a>
+                    <p>Veille</p>
+                </li>
+            </ul>
         </div>
     </section>
     <section id="sec-5">
-        <div class="container">
-            <div class="contact">
-                
+        <div>
+            <h2>Compétences</h2>
+        </div>
+        <div class="box">
+            <div class="content">
+                <span>Front-End</span>
+                <svg>
+                    <circle cx="70" cy="70px" r="70px"></circle>
+                    <circle class="circle_1" cx="70" cy="70px" r="70px"></circle>
+                </svg>
+            </div>
+            <div class="content">
+                <span>Back-End</span>
+                <svg>
+                    <circle cx="70" cy="70px" r="70px"></circle>
+                    <circle class="circle_2" cx="70" cy="70px" r="70px"></circle>
+                </svg>
+            </div>
+            <div class="content">
+                <span>Algorithmie</span>
+                <svg>
+                    <circle cx="70" cy="70px" r="70px"></circle>
+                    <circle class="circle_3" cx="70" cy="70px" r="70px"></circle>
+                </svg>
+            </div>
+            <div class="content">
+                <span>Data</span>
+                <svg>
+                    <circle cx="70" cy="70px" r="70px"></circle>
+                    <circle class="circle_4" cx="70" cy="70px" r="70px"></circle>
+                </svg>
+            </div>
+            <div class="content">
+                <span>Unity/C#</span>
+                <svg>
+                    <circle cx="70" cy="70px" r="70px"></circle>
+                    <circle class="circle_5" cx="70" cy="70px" r="70px"></circle>
+                </svg>
+            </div>
+            <div class="content">
+                <span>Réseaux</span>
+                <svg>
+                    <circle cx="70" cy="70px" r="70px"></circle>
+                    <circle class="circle_6" cx="70" cy="70px" r="70px"></circle>
+                </svg>
+            </div>
+            <div class="content">
+                <span>Suite Office</span>
+                <svg>
+                    <circle cx="70" cy="70px" r="70px"></circle>
+                    <circle class="circle_7" cx="70" cy="70px" r="70px"></circle>
+                </svg>
+            </div>
+            <div class="content">
+                <span>Sony Vegas</span>
+                <svg>
+                    <circle cx="70" cy="70px" r="70px"></circle>
+                    <circle class="circle_8" cx="70" cy="70px" r="70px"></circle>
+                </svg>
             </div>
         </div>
     </section>
-    <footer>
-        
+    <!-- Footer -->
+    <footer class="bg-dark text-center text-white">
+        <!-- Grid container -->
+        <div class="container p-4">
+            <!-- Section: Social media -->
+            <section class="mb-4">
+                <!-- Facebook -->
+                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-facebook-f"></i></a>
+
+                <!-- Twitter -->
+                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-twitter"></i></a>
+
+                <!-- Google -->
+                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-google"></i></a>
+
+                <!-- Instagram -->
+                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-instagram"></i></a>
+
+                <!-- Linkedin -->
+                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-linkedin-in"></i></a>
+
+                <!-- Github -->
+                <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-github"></i></a>
+            </section>
+            <!-- Section: Social media -->
+
+            <!-- Section: Form -->
+            <section class="">
+                <form action="">
+                    <!--Grid row-->
+                    <div class="row d-flex justify-content-center">
+                        <!--Grid column-->
+                        <div class="col-auto">
+                            <p class="pt-2">
+                                <strong>Sign up for our newsletter</strong>
+                            </p>
+                        </div>
+                        <!--Grid column-->
+
+                        <!--Grid column-->
+                        <div class="col-md-5 col-12">
+                            <!-- Email input -->
+                            <div class="form-outline form-white mb-4">
+                                <input type="email" id="form5Example2" class="form-control" />
+                                <label class="form-label" for="form5Example2">Email address</label>
+                            </div>
+                        </div>
+                        <!--Grid column-->
+
+                        <!--Grid column-->
+                        <div class="col-auto">
+                            <!-- Submit button -->
+                            <button type="submit" class="btn btn-outline-light mb-4">
+                                Subscribe
+                            </button>
+                        </div>
+                        <!--Grid column-->
+                    </div>
+                    <!--Grid row-->
+                </form>
+            </section>
+            <!-- Section: Form -->
+
+            <!-- Section: Text -->
+            <section class="mb-4">
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt distinctio earum
+                    repellat quaerat voluptatibus placeat nam, commodi optio pariatur est quia magnam
+                    eum harum corrupti dicta, aliquam sequi voluptate quas.
+                </p>
+            </section>
+            <!-- Section: Text -->
+
+            <!-- Section: Links -->
+            <section class="">
+                <!--Grid row-->
+                <div class="row">
+                    <!--Grid column-->
+                    <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase">Links</h5>
+
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <a href="#!" class="text-white">Link 1</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Link 2</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Link 3</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Link 4</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase">Links</h5>
+
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <a href="#!" class="text-white">Link 1</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Link 2</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Link 3</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Link 4</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase">Links</h5>
+
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <a href="#!" class="text-white">Link 1</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Link 2</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Link 3</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Link 4</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase">Links</h5>
+
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <a href="#!" class="text-white">Link 1</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Link 2</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Link 3</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Link 4</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--Grid column-->
+                </div>
+                <!--Grid row-->
+            </section>
+            <!-- Section: Links -->
+        </div>
+        <!-- Grid container -->
+
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+            © 2020 Copyright:
+            <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+        </div>
+        <!-- Copyright -->
     </footer>
+    <!-- Footer -->
 
     <script src="js/app.js"></script>
 

@@ -213,7 +213,7 @@ body {
     margin-top: 1400px;
     justify-content: center;
     display: flex;
-    margin-right: 900px;
+    margin-right: 1000px;
 }
 #sec-4 .container4 ul {
     display: flex;
@@ -249,30 +249,134 @@ body {
 
 
 /** Section 5 **/
-#sec-5 {
-    margin-top: 200px;
-}
-.contact {
-    display: flex;
-    height: 50vh;
+#sec-5 .box{
+    position: relative;
+    height: 56vh;
     width: 50%;
-    margin-bottom: 100px;
-    float: left;
-    margin-left: 25%;
+    margin: auto;
+    margin-bottom: 50px;
     border-bottom-left-radius: 100px;
     border-bottom-right-radius: 100px;
     background-color: #324268;
 }
 
-/** footer **/
-
-footer {
-    background: #000000;
-    bottom: 0;
-    display: flex;
-    width: 100%;
-    height: 100px;
+#sec-5 h2{
+    color: rgb(255 255 255);
+    text-align: center;
+    height: 61px;
+    background-color: #222d46d6;
+    width: 30%;
+    margin: auto;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
 }
+
+#sec-5 .box .content {
+    width: 200px;
+    margin: 17px;
+    display: inline-grid;
+    height: 220px;
+    position: relative;
+    background-color: white;
+    filter: drop-shadow(2px 2px 10px rgb(10, 10, 50));
+    border-radius: 20px;
+}
+
+svg {
+    height: 150px;
+    width: 150px;
+    margin: auto;
+}
+
+svg circle {
+    margin-top: 100px;
+    fill: none;
+    stroke: #26495c;
+    stroke-width: 10px;
+    transform: translate(5px, 5px);
+    stroke-linecap: round;
+    stroke-dasharray: 440;
+}
+svg circle:nth-child(1) {
+    stroke-dashoffset: 0;
+    stroke: #d4d4d4;
+}
+
+.circle_1 {
+    animation: circle1 3s forwards;
+    stroke-dashoffset: 440;
+}
+.circle_2 {
+    animation: circle2 3s forwards;
+    stroke-dashoffset: 440;
+}
+.circle_3 {
+    animation: circle3 3s forwards;
+    stroke-dashoffset: 440;
+}
+.circle_4 {
+    animation: circle4 3s forwards;
+    stroke-dashoffset: 440;
+}
+.circle_5 {
+    animation: circle5 3s forwards;
+    stroke-dashoffset: 440;
+}
+.circle_6 {
+    animation: circle6 3s forwards;
+    stroke-dashoffset: 440;
+}
+
+.circle_7 {
+    animation: circle7 3s forwards;
+    stroke-dashoffset: 440;
+}
+
+.circle_8 {
+    animation: circle8 3s forwards;
+    stroke-dashoffset: 440;
+}
+
+
+
+
+
+
+@keyframes circle1 {
+    to {stroke-dashoffset: 110;}
+}
+@keyframes circle2 {
+    to {stroke-dashoffset: 130;}
+}
+@keyframes circle3 {
+    to {stroke-dashoffset: 140;}
+}
+@keyframes circle4 {
+    to {stroke-dashoffset: 170;}
+}
+@keyframes circle5 {
+    to {stroke-dashoffset: 90;}
+}
+@keyframes circle6 {
+    to {stroke-dashoffset: 200;}
+}
+@keyframes circle7 {
+    to {stroke-dashoffset: 60;}
+}
+@keyframes circle8 {
+    to {stroke-dashoffset: 90;}
+}
+
+
+
+span {
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 17px;
+}
+
 
 @keyframes logoFade {
     0% {

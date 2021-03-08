@@ -67,3 +67,11 @@ sr.reveal(".button", {
     origin: "top",
     distance: "100px"
 });
+
+sr.reveal(".content", {
+    duration: 2000,
+    origin: "bottom",
+    distance: "70px",
+    dalay: 1000
+},1000);
+
