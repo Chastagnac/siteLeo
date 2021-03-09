@@ -99,11 +99,15 @@
 /** section 4 **/
 
 @media screen and (max-width: 1337px) {
-  #sec-4 .container ul {
-    /* display: flex; */
+  #sec-4 .container4 {
     justify-content: center;
-    font-size: 3em;
-    justify-content: center;
+
   }
 
+}
+
+@media screen and (max-width: 550px) {
+  #sec-4 .container4 {
+    display: block;
+  }
 }

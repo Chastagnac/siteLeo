@@ -209,42 +209,62 @@ body {
 
 
 /** sec-4 **/
+
 #sec-4 .container4 {
-    margin-top: 1400px;
-    justify-content: center;
-    display: flex;
-    margin-right: 1000px;
-}
-#sec-4 .container4 ul {
-    display: flex;
-    justify-content: center;
-    font-size: 4em;
-
+    display: inline-flex;
+    padding: 100px 0;
+    margin-left: 25%;
 }
 
-#sec-4 .container4 li {
-    margin: 70px;
-    height: 200px;
-    color: #2d324a;
-    width: 200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 205px;
-    border-radius: 50%;
-    background: #f5f1f7;
-    box-shadow: 16px 16px 33px #d6d1d1, -16px -16px 33px #d6d1d1;
+#sec-4 .card {
+    max-width: 400px;
+    margin: 30px 0;
+    padding: 18px;
+    padding: px;
+    margin-right: 150px;
+    background-color: #fff;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 0px 0px 45px 10px #b9b9b9;
+    cursor: pointer;
+    position: relative;
+    transition: 0.3s;
 }
 
-#sec-4 .container4 ul p {
-    font-size: 25px;
-    margin-left: 10px;
-    display: flex;
-    justify-content: center;
+#sec-4 .card::before {
+    content : "";
+    position: absolute;
+    height: 5px;
+    background: linear-gradient( #e45800, #e66465, #f5ff00);    
+    bottom: 0;
+    border-radius: 50px;
+    left: 0;
+    right: 100%;
+    transition: 0.3s;
 }
 
-#sec-4 .container4 li:hover {
-    box-shadow: inset 16px 16px 33px #d6d1d1, inset -16px -16px 33px #d6d1d1;
+#sec-4 .card:hover::before {
+    right: 0%;
+}
+
+#sec-4 .card:hover {
+    transform: translateY(-15px);
+}
+
+#sec-4 .card span {
+    font-size: 1.75em;
+    display: contents;
+    color: #d37b34;
+    transition: 0.6s ease-in-out;
+}
+#sec-4 .card:hover span {
+    transform : rotate(180deg);
+}
+
+#sec-4 .card h4 {
+    font-size: 1.3em;
+    margin: 20px 0 7px 0;
+    color: #324268;
 }
 
 
