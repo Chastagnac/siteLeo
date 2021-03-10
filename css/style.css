@@ -338,8 +338,16 @@ svg circle:nth-child(1) {
 }
 
 
-
-
+.footer {
+    height: 140px;
+    width: 100%;
+    background-color: #2b3345;
+}
+.footer h3{
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
 
 
 @keyframes circle1 {
