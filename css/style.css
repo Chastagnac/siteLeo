@@ -115,16 +115,12 @@ body {
 }
 
 .title {
-    border-radius: 10px;
     margin-top: 300px;
     margin-left: 100px;
     font-size: 50px;
     color: #fff;
-    border-width: 5px;
-    border-style: double;
     text-align: center;
     display: inline-flex;
-    border-color: black;
 }
 
 .image__overlay {
@@ -226,7 +222,6 @@ body {
     box-sizing: border-box;
     border-radius: 10px;
     box-shadow: 0px 0px 45px 10px #b9b9b9;
-    cursor: pointer;
     position: relative;
     transition: 0.3s;
 }
@@ -251,22 +246,32 @@ body {
     transform: translateY(-15px);
 }
 
-#sec-4 .card span {
-    font-size: 1.75em;
-    display: contents;
-    color: #d37b34;
-    transition: 0.6s ease-in-out;
+#sec-4 .container4 .card span {
+    font-size: 2em;
+    color: #fe3e0c;
+    transition: 0.5s ease-in-out;
+    left: auto;
 }
 #sec-4 .card:hover span {
-    transform : rotate(180deg);
+    transform : rotate(360deg);
 }
 
 #sec-4 .card h4 {
     font-size: 1.3em;
-    margin: 20px 0 7px 0;
+    margin: 30px 0 7px 0;
     color: #324268;
 }
 
+.btn {
+    cursor: pointer;
+    margin: 10px;
+    border-radius: inherit;
+    padding: 10px;
+    float: right;
+    background-color: transparent;
+    color: #474646;
+    border : 1px solid;
+}
 
 /** Section 5 **/
 #sec-5 .box{
@@ -397,7 +402,7 @@ svg circle:nth-child(1) {
 
 
 
-span {
+#sec-5 span {
     position: absolute;
     top: 8%;
     left: 50%;

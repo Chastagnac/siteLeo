@@ -165,16 +165,22 @@
         <div class="container4">
             <div class="card">
                 <div>
-                    <span class="fa fa-stethoscope"></span>
+                    <span class="fa fa-laptop-code"></span>
                     <h4>Projet</h4>
                     <p>Retrouvez des projets d'étudiant mais également des projets personnel !</p>
+                    <button class="btn" onclick= "window.location.href='page/project.php'">
+                        Y aller 
+                    </button>
                 </div>
             </div>
             <div class="card">
                 <div>
-                    <span class="fa fa-stethoscope"></span>
+                    <span class="fa fa-rss-square"></span>
                     <h4>Veille</h4>
                     <p>Suivez les différentes évolutions de l'ecosystème de l'informatique !</p>
+                    <button class="btn" onclick= "window.location.href='page/veille.php'">
+                        Y aller 
+                    </button>
                 </div>
             </div>
         </div>
