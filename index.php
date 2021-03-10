@@ -163,15 +163,20 @@
     </section>
     <section id="sec-4">
         <div class="container4">
-            <ul>
-                <li><a class="fab fa-battle-net" href="page/project.php" style="text-decoration: none; color: #202b61;"></a>
-                    <p>Projet</p>
-                </li>
-
-                <li><a class="fas fa-stopwatch-20" href="page/veille.php" style="text-decoration: none; color: #202b61;"></a>
-                    <p>Veille</p>
-                </li>
-            </ul>
+            <div class="card">
+                <div>
+                    <span class="fa fa-stethoscope"></span>
+                    <h4>Projet</h4>
+                    <p>Retrouvez des projets d'étudiant mais également des projets personnel !</p>
+                </div>
+            </div>
+            <div class="card">
+                <div>
+                    <span class="fa fa-stethoscope"></span>
+                    <h4>Veille</h4>
+                    <p>Suivez les différentes évolutions de l'ecosystème de l'informatique !</p>
+                </div>
+            </div>
         </div>
     </section>
     <section id="sec-5">
