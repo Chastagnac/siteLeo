@@ -168,8 +168,8 @@
                     <span class="fa fa-laptop-code"></span>
                     <h4>Projet</h4>
                     <p>Retrouvez des projets d'étudiant mais également des projets personnel !</p>
-                    <button class="btn" onclick= "window.location.href='page/project.php'">
-                        Y aller 
+                    <button class="btn" onclick="window.location.href='page/project.php'">
+                        Y aller
                     </button>
                 </div>
             </div>
@@ -178,8 +178,8 @@
                     <span class="fa fa-rss-square"></span>
                     <h4>Veille</h4>
                     <p>Suivez les différentes évolutions de l'ecosystème de l'informatique !</p>
-                    <button class="btn" onclick= "window.location.href='page/veille.php'">
-                        Y aller 
+                    <button class="btn" onclick="window.location.href='page/veille.php'">
+                        Y aller
                     </button>
                 </div>
             </div>
@@ -190,61 +190,71 @@
             <h2>Compétences</h2>
         </div>
         <div class="box">
-            <div class="content">
-                <span>Front-End</span>
-                <svg>
-                    <circle cx="70" cy="70px" r="70px"></circle>
-                    <circle class="circle_1" cx="70" cy="70px" r="70px"></circle>
-                </svg>
-            </div>
-            <div class="content">
-                <span>Back-End</span>
-                <svg>
-                    <circle cx="70" cy="70px" r="70px"></circle>
-                    <circle class="circle_2" cx="70" cy="70px" r="70px"></circle>
-                </svg>
-            </div>
-            <div class="content">
-                <span>Algorithmie</span>
-                <svg>
-                    <circle cx="70" cy="70px" r="70px"></circle>
-                    <circle class="circle_3" cx="70" cy="70px" r="70px"></circle>
-                </svg>
-            </div>
-            <div class="content">
-                <span>Data</span>
-                <svg>
-                    <circle cx="70" cy="70px" r="70px"></circle>
-                    <circle class="circle_4" cx="70" cy="70px" r="70px"></circle>
-                </svg>
-            </div>
-            <div class="content">
-                <span>Unity/C#</span>
-                <svg>
-                    <circle cx="70" cy="70px" r="70px"></circle>
-                    <circle class="circle_5" cx="70" cy="70px" r="70px"></circle>
-                </svg>
-            </div>
-            <div class="content">
-                <span>Réseaux</span>
-                <svg>
-                    <circle cx="70" cy="70px" r="70px"></circle>
-                    <circle class="circle_6" cx="70" cy="70px" r="70px"></circle>
-                </svg>
-            </div>
-            <div class="content">
-                <span>Suite Office</span>
-                <svg>
-                    <circle cx="70" cy="70px" r="70px"></circle>
-                    <circle class="circle_7" cx="70" cy="70px" r="70px"></circle>
-                </svg>
-            </div>
-            <div class="content">
-                <span>Sony Vegas</span>
-                <svg>
-                    <circle cx="70" cy="70px" r="70px"></circle>
-                    <circle class="circle_8" cx="70" cy="70px" r="70px"></circle>
-                </svg>
+            <div class="container5">
+                <div class="content">
+                    <span>Front-End</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_1" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>75%</p>
+                </div>
+                <div class="content">
+                    <span>Back-End</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_2" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>70%</p>
+                </div>
+                <div class="content">
+                    <span>Algorithmie</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_3" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>65%</p>
+                </div>
+                <div class="content">
+                    <span>Data</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_4" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>60%</p>
+                </div>
+                <div class="content">
+                    <span>Unity/C#</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_5" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>80%</p>
+                </div>
+                <div class="content">
+                    <span>Réseaux</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_6" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>55%</p>
+                </div>
+                <div class="content">
+                    <span>Suite Office</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_7" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>90%</p>
+                </div>
+                <div class="content">
+                    <span>Sony Vegas</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_8" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>95%</p>
+                </div>
             </div>
         </div>
     </section>

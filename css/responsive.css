@@ -98,16 +98,17 @@
 
 /** section 4 **/
 
-@media screen and (max-width: 1337px) {
+@media screen and (max-width: 1037px) {
   #sec-4 .container4 {
-    justify-content: center;
-
+    display: grid;
   }
 
 }
+
 
 @media screen and (max-width: 550px) {
-  #sec-4 .container4 {
-    display: block;
+  #sec-5 h2 {
+    width: 50%;
   }
 }
+
