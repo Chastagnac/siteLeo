@@ -268,16 +268,16 @@
                 </div>
             </li>
             <li>
-                <div class="instagram">
-                    <a href="mailto:leochastagnac@gmail.com" target="_blank"> 
-                        <i class="fa fa-google" aria-hidden="true"></i>
+                <div class="github">
+                    <a href="https://github.com/Chastagnac" target="_blank">
+                        <i class="fa fa-github" aria-hidden="true"></i>
                     </a>
                 </div>
             </li>
             <li>
-                <div class="github">
-                    <a href="https://github.com/Chastagnac" target="_blank">
-                        <i class="fa fa-github" aria-hidden="true"></i>
+                <div class="instagram">
+                    <a href="mailto:leochastagnac@gmail.com" target="_blank"> 
+                        <i class="fa fa-google" aria-hidden="true"></i>
                     </a>
                 </div>
             </li>
