@@ -42,11 +42,10 @@
             <div class="image__overlay">
                 <h1 class="title">Qui suis-je ?</h1>
                 <div class="texte">
-                    <p>Je m'appelle Léo Chastagnac, j'ai 19 ans, j'habite au Beausset et je suis passionné par l'informatique et les différentes technologies qui composent ce domaine.
-                        De plus je pratique la
-                        guitare en autodidacte depuis 5ans, le piano depuis 2ans et le
-                        développement personnel. Je également passionné de sport ou je
-                        pratique la musculation, le street workout, le tricking et le VTT</p>
+                    <p><strong>Léo Chastagnac</strong>, 19 ans, passionné par l'informatique et les différentes technologies qui composent ce domaine. Rigoureux dans mon travail, j'ambitionne
+                        de poursuivre mes études en <strong>licence 3 MIAGE</strong> sous contrat d'apprentissage ou de professionnalisation.
+                        Je pratique la guitare en autodidacte depuis 6 ans, le piano depuis 1 ans et le développement personnel.
+                        Je suis également passionné de sport ce qui me permet d'acquérir une rigueur et un travaille d'équipe.</p>
                 </div>
 
             </div>
@@ -145,15 +144,15 @@
                             Métiers"
                         </div>
                     </div>
+                    <div class="trait_dessus">
+                        <hr>
+                    </div>
                     <div class="col-1">
                         <div class="lieu">Bac Professionnel spécialité SN</div>
                         <div class="date">2016</div>
                     </div>
-                    <div class="trait_dessus">
-                        <hr>
-                    </div>
                     <div class="col-2">
-                        <div class="profession"><br>Etudes supérieures</div>
+                        <div class="profession"><br>Lycée</div>
                         <div class="details">Baccalauréat Professionnel "Système Numériques"
                         </div>
                     </div>
@@ -187,7 +186,7 @@
     </section>
     <section id="sec-5">
         <div>
-            <h2>Compétences</h2>
+            <h2>Compétences</h2 >
         </div>
         <div class="box">
             <div class="container5">
@@ -258,11 +257,33 @@
             </div>
         </div>
     </section>
-    <div class="footer">
-        <h3> Crédits - Léo Chastagnac </h3>
-    </div>
-
+ 
+    <section>
+        <ul id="services">
+            <li>
+                <div class="linkedin">
+                    <a href="https://www.linkedin.com/in/l%C3%A9o-chastagnac/" target="_blank">
+                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </li>
+            <li>
+                <div class="instagram">
+                    <a href="mailto:leochastagnac@gmail.com" target="_blank"> 
+                        <i class="fa fa-google" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </li>
+            <li>
+                <div class="github">
+                    <a href="https://github.com/Chastagnac" target="_blank">
+                        <i class="fa fa-github" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </li>
+            <h3>Léo Chastagnac<br><h4>Copyright © 2021<h4> </h3>
+        </ul>   
+    </section>
     <script src="js/app.js"></script>
-
 
 </html>
