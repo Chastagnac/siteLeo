@@ -110,5 +110,11 @@
   #sec-5 h2 {
     width: 50%;
   }
+  #sec-4 .card {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
 }
 

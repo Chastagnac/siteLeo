@@ -392,7 +392,7 @@ svg circle:nth-child(1) {
     to {stroke-dashoffset: 130;}
 }
 @keyframes circle3 {
-    to {stroke-dashoffset: 140;}
+    to {stroke-dashoffset: 110;}
 }
 @keyframes circle4 {
     to {stroke-dashoffset: 170;}
@@ -404,10 +404,10 @@ svg circle:nth-child(1) {
     to {stroke-dashoffset: 200;}
 }
 @keyframes circle7 {
-    to {stroke-dashoffset: 60;}
+    to {stroke-dashoffset: 65;}
 }
 @keyframes circle8 {
-    to {stroke-dashoffset: 70;}
+    to {stroke-dashoffset: 45;}
 }
 
 

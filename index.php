@@ -213,7 +213,7 @@
                         <circle cx="70" cy="70px" r="70px"></circle>
                         <circle class="circle_3" cx="70" cy="70px" r="70px"></circle>
                     </svg>
-                    <p>65%</p>
+                    <p>75%</p>
                 </div>
                 <div class="content">
                     <span>Data</span>
