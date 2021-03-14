@@ -31,3 +31,31 @@ body {
     background-image: url(../assets/wave.svg);   
     background-size: cover;
 }
+
+#sec-2 {
+    position: absolute;
+    width: 1400px;
+    margin-top: 40%;
+    margin-left: 10%;
+}
+
+#sec-2 h4 {
+    text-align: center;
+    font-size: 2em;
+    color: #2b3345;
+}
+
+#sec-2 img {
+	width: 150px;
+	height: 150px;
+}
+#sec-2 p {
+    text-align: justify;
+    width: 60%;
+    margin-left: 50px;
+}
+
+#sec-2 .container {
+    display: flex;
+    justify-content: center;
+}

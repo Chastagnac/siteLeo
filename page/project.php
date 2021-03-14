@@ -21,4 +21,21 @@
             <p>également des projets personnels.</p>
         </div>
     </section>
+    <section id="sec-2">
+        <h4>Projets de BTS SIO</h4>
+        <div class="container">
+            <img src="../assets/images/gsb.jpg" alt="Grapefruit slice atop a pile of other slices">
+            <p>
+            Le laboratoire Galaxy Swiss Bourdin (GSB) est issu de la fusion entre les laboratoires Galaxy et Swiss
+                Bourdin. On souhaite uniformiser la gestion du suivi des fiches de frais des visites médical. C’est
+                pourquoi une application a été développer.
+            </p>
+
+            </div>
+        </div>
+    </section>
+
+
+
+
 </body>
