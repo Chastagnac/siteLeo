@@ -1,0 +1,15 @@
+/** Page Projet **/
+
+@media screen and (max-width: 600px) {
+    .bandeau p {
+        margin: 10px;
+        line-height: initial;
+        text-align: justify;
+        font-size: 1em;
+    }
+
+    .bandeau h3 {
+        text-align: center;
+        margin-left: auto;
+    }
+}
