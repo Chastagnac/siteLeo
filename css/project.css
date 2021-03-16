@@ -38,23 +38,24 @@ body {
     margin-left: 10%;
 }
 
-#sec-2 h4 {
-    text-align: center;
+h1 {
     font-size: 2em;
+    color: #2b3345;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.2em;
     color: #2b3345;
 }
 
 #sec-2 img {
-	width: 150px;
-	height: 150px;
+	width: 300px;
+	height: 300px;
 }
 #sec-2 p {
     text-align: justify;
-    width: 60%;
     margin-left: 50px;
 }
 
-#sec-2 .container {
-    display: flex;
-    justify-content: center;
-}
+

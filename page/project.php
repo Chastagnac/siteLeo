@@ -18,24 +18,21 @@
         <div class="bandeau">
             <h3>Projets</h3>
             <p>Vous retrouverez ici des projets d'étudiant mais
-            également des projets personnels.</p>
+                également des projets personnels.</p>
         </div>
     </section>
-    <!-- <section id="sec-2">
-        <h4>Projets de BTS SIO</h4>
+
+    <section id="sec-2">
+        <h1>Projets de BTS SIO</h1>
         <div class="container">
+            <div class="containt">
             <img src="../assets/images/gsb.jpg" alt="Grapefruit slice atop a pile of other slices">
-            <p>
-            Le laboratoire Galaxy Swiss Bourdin (GSB) est issu de la fusion entre les laboratoires Galaxy et Swiss
-                Bourdin. On souhaite uniformiser la gestion du suivi des fiches de frais des visites médical. C’est
-                pourquoi une application a été développer.
-            </p>
-
+                <h2>Objectif : </h2>
+                <p>Suite à une récente fusion le laboratoire Galaxy Swiss Bourdin souhaite uniformiser la gestion des frais professionnels des visiteurs médicaux via le développement en interne d’une
+                    application WEB intitulée Gsb-AppliFrais. Cette application est destinée à la fois aux visiteurs médicaux et aux comptables en charges de leur gestion. Elle permet de saisir et d’enregistrer tous les frais
+                    engagss par les visiteurs médicaux aussi bien pour l’activité directe (déplacement, restauration et hébergement) que pour les activités annexes (événementiel, conférences, autres).</p>
             </div>
+            <h2>Outils, langages et logiciels :</h2>
         </div>
-    </section> -->
-
-
-
-
+    </section>
 </body>

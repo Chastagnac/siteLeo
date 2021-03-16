@@ -307,9 +307,8 @@ body {
 #sec-5 .box .content p{
     text-align: center;
     position: absolute;
-    margin-bottom: px;
+    margin-bottom: 5px;
     font-size: 2.2em;
-    /* top: 50%; */
     top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
