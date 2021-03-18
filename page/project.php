@@ -25,7 +25,7 @@
     <section id="sec-2">
         <h1>Projets de BTS SIO</h1>
         <div class="container">
-            <img src="../assets/images/gsb.jpg" alt="Grapefruit slice atop a pile of other slices">
+            <img class="imggsb" src="../assets/images/gsb.jpg" alt="Grapefruit slice atop a pile of other slices">
             <div class="objectif">
                 <h2>Objectif : </h2>
                 <p>Suite à une récente fusion le laboratoire Galaxy Swiss Bourdin souhaite uniformiser la gestion des frais professionnels des visiteurs médicaux via le développement en interne d’une
@@ -98,5 +98,4 @@
             </div>
         </div>
     </section>
-
 </body>
