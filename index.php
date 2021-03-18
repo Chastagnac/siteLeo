@@ -78,8 +78,7 @@
                     <div class="col-2">
                         <div class="profession"><br>CDI chez un primeur</div>
                         <div class="details">Mise en place de la marchandise,
-                            achats auprès de grossistes et création d'un site vitrine pour l'entreprise
-                            à l'aide d'un CMS.
+                            achats auprès de grossistes.
                         </div>
                     </div>
                 </div>
