@@ -72,12 +72,12 @@
                 </div>
                 <div class="experience">
                     <div class="col-1">
-                        <div class="lieu">La Petite Provence</div>
+                        <div class="lieu">La Petite Provence - primeur</div>
                         <div class="date">depuis mai 2019</div>
                     </div>
                     <div class="col-2">
-                        <div class="profession"><br>CDI chez un primeur</div>
-                        <div class="details">Mise en place de la marchandise,
+                        <div class="profession"><br>Contract étudiant</div>
+                        <div class="details">Mise en place de la marchandise, encadrement de personnel
                             achats auprès de grossistes.
                         </div>
                     </div>
@@ -152,7 +152,7 @@
                     </div>
                     <div class="col-2">
                         <div class="profession"><br>Lycée</div>
-                        <div class="details">Baccalauréat Professionnel "Système Numériques"
+                        <div class="details">Baccalauréat Professionnel "Systèmes Numériques"
                         </div>
                     </div>
                 </div>
