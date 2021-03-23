@@ -15,15 +15,18 @@
     h1 {
         margin-top: 200px;  
     }
-    #sec-2 .screen .container {
+    #sec-3 .screen .container {
         margin-left: auto;
     }
-    #sec-2 .screen {
-        margin-top : 200px
+    #sec-3 .screen {
+        margin-top : 1300px;
     }
 }
 @media screen and (max-width: 1100px) {
     #sec-2 {
+        margin-top: 800px;
+    }
+    #sec-3 {
         margin-top: 800px;
     }
 }
