@@ -38,7 +38,7 @@
     </section>
     <section id="sec-2">
         <div class="container">
-            <img src="assets/images/rubanwave.png" class="image__img" alt="banière wave" />
+            <img src="assets/images/rubanwave2.png" class="image__img" alt="banière wave" />
             <div class="image__overlay">
                 <h1 class="title">Qui suis-je ?</h1>
                 <div class="texte">
