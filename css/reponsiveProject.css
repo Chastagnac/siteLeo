@@ -21,6 +21,13 @@
     #sec-3 .screen {
         margin-top : 1300px;
     }
+
+    #sec-5 .screen .container {
+        margin-left: auto;
+    }
+    #sec-5 .screen {
+        margin-top : 1120px;
+    }
 }
 @media screen and (max-width: 1100px) {
     #sec-2 {
@@ -28,6 +35,12 @@
     }
     #sec-3 {
         margin-top: 800px;
+    }
+    #sec-4 {
+        margin-top: 2600px;
+    }
+    #sec-5 {
+        margin-top: 1500px;
     }
 }
 
