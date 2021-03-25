@@ -1,0 +1,121 @@
+/** SECTION 1 **/
+@media screen and (max-width: 1500px) {
+  .imgMove1 {
+    padding-left: 200px;
+    padding-right: 350px;
+  }
+
+  .imgMove2 {
+    padding-left: 50px;
+    padding-right: 140px;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .imgMove1 {
+    display: none;
+  }
+
+  .imgMove2 {
+    display: none;
+  }
+  .logo img {
+    max-width: 100%;
+    margin: 10px;
+  }
+}
+
+/** SECTION 2 **/
+
+@media screen and (max-width: 1500px) {
+  .title {
+    margin-top: 200px;
+  }
+  .texte {
+    width: 500px;
+  }
+}
+
+@media screen and (max-width: 1315px) {
+  .title {
+    margin-top: 200px;
+  }
+  .texte {
+    margin-top: 60px;
+  }
+}
+
+@media screen and (max-width: 1230px) {
+  .title {
+    text-align: center;
+    display: table;
+    color: BLACK;
+    border-width: 5px;
+    border-style: double;
+    border-color: black;
+    margin: auto;
+    margin-top: 500px;
+  }
+  .texte {
+    text-align: center;
+    display: table-row;
+    color: #324268;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .title {
+    margin-top: 250px;
+  }
+}
+
+/** section 3 **/
+
+@media screen and (max-width: 1080px) {
+  .ex-Pro {
+    float: initial;
+    width: 100%;
+    margin-top: 50%;
+  }
+
+  .ex-sco {
+    float: initial;
+    margin-top: 50%;
+    width: 100%;
+  }
+
+  .container2 {
+    margin: 15px;
+  }
+  .fleche {
+    visibility: hidden;
+    display: table-column-group;
+  }
+
+  #sec-1 .container {
+    max-width: min-content;
+  }
+}
+
+/** section 4 **/
+
+@media screen and (max-width: 1037px) {
+  #sec-4 .container4 {
+    display: grid;
+  }
+
+}
+
+
+@media screen and (max-width: 550px) {
+  #sec-5 h2 {
+    width: 50%;
+  }
+  #sec-4 .card {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+}
+

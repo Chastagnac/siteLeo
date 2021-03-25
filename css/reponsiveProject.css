@@ -1,0 +1,46 @@
+/** Page Projet **/
+
+@media screen and (max-width: 600px) {
+    .bandeau p {
+        margin: 10px;
+        line-height: initial;
+        text-align: justify;
+        font-size: 1em;
+    }
+
+    .bandeau h3 {
+        text-align: center;
+        margin-left: auto;
+    }
+    h1 {
+        margin-top: 200px;  
+    }
+    #sec-3 .screen .container {
+        margin-left: auto;
+    }
+    #sec-3 .screen {
+        margin-top : 1300px;
+    }
+
+    #sec-5 .screen .container {
+        margin-left: auto;
+    }
+    #sec-5 .screen {
+        margin-top : 1120px;
+    }
+}
+@media screen and (max-width: 1100px) {
+    #sec-2 {
+        margin-top: 800px;
+    }
+    #sec-3 {
+        margin-top: 800px;
+    }
+    #sec-4 {
+        margin-top: 2600px;
+    }
+    #sec-5 {
+        margin-top: 1500px;
+    }
+}
+
