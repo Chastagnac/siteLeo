@@ -45,7 +45,7 @@
                     <p><strong>Léo Chastagnac</strong>, 19 ans, passionné par l'informatique et les différentes technologies qui composent ce domaine. Rigoureux dans mon travail, j'ambitionne
                         de poursuivre mes études en <strong>licence 3 MIAGE</strong> sous contrat d'apprentissage ou de professionnalisation.
                         Je pratique la guitare en autodidacte depuis 6 ans, le piano depuis 1 ans et le développement personnel.
-                        Je suis également passionné de sport ce qui me permet d'acquérir une <strong>rigueur</strong> et un <strong>travaille d'équipe</strong>.</p>
+                        Je suis également passionné de sport ce qui me permet d'acquérir une <strong>rigueur</strong> et un <strong>travail d'équipe</strong>.</p>
                 </div>
 
             </div>
