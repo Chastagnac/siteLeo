@@ -46,9 +46,11 @@
             <div class="realisations">
                 <h2>Réalisations : </h2>
                 <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/gsbContexte.pdf'">
-                    <i class="fa fa-file-pdf-o"></i></button>Documentation technique<br>
-                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/gsbContexte.pdf'">
                     <i class="fa fa-file-pdf-o"></i></button>Contexte<br>
+                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/Documentation_Fonctionnelle.pdf'">
+                    <i class="fa fa-file-pdf-o"></i></button>Documentation fonctionnelle<br>
+                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/compteRendu.pdf'">
+                    <i class="fa fa-file-pdf-o"></i></button>Compte rendu<br>
             </div>
         </div>
     </section>
@@ -63,10 +65,10 @@
                         <img src="../assets/images/imggsb/1.PNG" alt="song">
                     </label>
                     <label class="card" for="item-2" id="song-2">
-                        <img src="https://images.unsplash.com/photo-1559386484-97dfc0e15539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80" alt="song">
+                        <img src="../assets/images/imggsb/3.png" alt="song">
                     </label>
                     <label class="card" for="item-3" id="song-3">
-                        <img src="https://images.unsplash.com/photo-1533461502717-83546f485d24?ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60" alt="song">
+                        <img src="../assets/images/imggsb/2.png" alt="song">
                     </label>
                 </div>
                 <div class="player">
@@ -85,13 +87,13 @@
                                 </div>
                             </label>
                             <label class="song-info" id="song-info-2">
-                                <div class="title">Words Remain</div>
+                                <div class="title">Mise en paiement d'une fiche de frais </div>
                                 <div class="sub-line">
                                     <div class="subtitle">Léo Chastagnac</div>
                                 </div>
                             </label>
                             <label class="song-info" id="song-info-3">
-                                <div class="title">Falling Out</div>
+                                <div class="title">Validation d'une fiche de frais avec la possibilité de corriger ou refuser un frais hors forfait</div>
                                 <div class="sub-line">
                                     <div class="subtitle">Léo Chastagnac</div>
                                 </div>
@@ -106,23 +108,21 @@
         </div>
     </section>
     <section id="sec-4">
-        <h2 class="h2">GSB</h2>
+        <h2 class="h2">Tennis</h2>
         <div class="container">
             <img src="../assets/images/gsb.jpg" alt="Grapefruit slice atop a pile of other slices">
             <div class="objectif">
                 <h2>Objectif : </h2>
-                <p>Suite à une récente fusion le laboratoire Galaxy Swiss Bourdin souhaite uniformiser la gestion des frais professionnels des visiteurs médicaux via le développement en interne d’une
-                    application WEB intitulée Gsb-AppliFrais. Cette application est destinée à la fois aux visiteurs médicaux et aux comptables en charges de leur gestion. Elle permet de saisir et d’enregistrer tous les frais
-                    engagss par les visiteurs médicaux aussi bien pour l’activité directe (déplacement, restauration et hébergement) que pour les activités annexes (événementiel, conférences, autres).</p>
+                <p>En première année nous avons pu réaliser une application basée sur le tennis qui permet de suivre un match en
+                    comptant le nombre de points pour chacun des joueurs. Elle permet également de suivre l'historique des matchs.</p>
             </div>
             <div class="outils">
                 <h2>Outils, langages et logiciels :</h2>
                 <ul>
-                    <li>PHP</li>
-                    <li>MySql</li>
+                    <li>Java</li>
+                    <li>Android Studio</li>
                     <li>Wamp</li>
                     <li>JavaScript</li>
-                    <li>NetBians</li>
                 </ul>
             </div>
             <div class="realisations">
@@ -135,56 +135,11 @@
         </div>
     </section>
     <section id="sec-5">
-        <div class="screen">
-            <div class="container">
-                <input type="radio" name="slider" id="item-10" checked>
-                <input type="radio" name="slider" id="item-11">
-                <input type="radio" name="slider" id="item-12">
-                <div class="cards">
-                    <label class="card" for="item-10" id="song-1">
-                        <img src="../assets/images/imggsb/1.PNG" alt="song">
-                    </label>
-                    <label class="card" for="item-11" id="song-2">
-                        <img src="https://images.unsplash.com/photo-1559386484-97dfc0e15539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80" alt="song">
-                    </label>
-                    <label class="card" for="item-12" id="song-3">
-                        <img src="https://images.unsplash.com/photo-1533461502717-83546f485d24?ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60" alt="song">
-                    </label>
-                </div>
-                <div class="player">
-                    <div class="upper-part">
-                        <div class="play-icon">
-                            <svg width="20" height="20" fill="#2992dc" stroke="#2992dc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="feather feather-play" viewBox="0 0 24 24">
-                                <defs />
-                                <path d="M5 3l14 9-14 9V3z" />
-                            </svg>
-                        </div>
-                        <div class="info-area" id="test">
-                            <label class="song-info" id="song-info-1">
-                                <div class="title">Page de connection à GSB</div>
-                                <div class="sub-line">
-                                    <div class="subtitle">Léo Chastagnac</div>
-                                </div>
-                            </label>
-                            <label class="song-info" id="song-info-2">
-                                <div class="title">Words Remain</div>
-                                <div class="sub-line">
-                                    <div class="subtitle">Léo Chastagnac</div>
-                                </div>
-                            </label>
-                            <label class="song-info" id="song-info-3">
-                                <div class="title">Falling Out</div>
-                                <div class="sub-line">
-                                    <div class="subtitle">Léo Chastagnac</div>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-                    <div class="progress-bar">
-                        <span class="progress"></span>
-                    </div>
-                </div>
-            </div>
+        <div class="pic-ctn">
+            <img src="../assets/images/imggsb/1.PNG" alt="" class="pic">
+            <img src="../assets/images/imggsb/4.PNG" alt="" class="pic">
+            <img src="../assets/images/imggsb/3.PNG" alt="" class="pic">
         </div>
     </section>
+
 </body>
