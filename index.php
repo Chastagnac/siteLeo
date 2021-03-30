@@ -42,7 +42,7 @@
             <div class="image__overlay">
                 <h1 class="title">Qui suis-je ?</h1>
                 <div class="texte">
-                    <p><strong>Léo Chastagnac</strong>, 19 ans, passionné par l'informatique et les différentes technologies qui composent ce domaine. Rigoureux dans mon travail, j'ambitionne
+                    <p><strong>Léo Chastagnac</strong>, 19 ans, passionné par l'informatique et les différentes technologies qui composent ce domaine. Assidu dans mon travail, j'ambitionne
                         de poursuivre mes études en <strong>licence 3 MIAGE</strong> sous contrat d'apprentissage ou de professionnalisation.
                         Etant passionné de sport, cela m'a permis d'acquérir une <strong>rigueur</strong> et un <strong>travail d'équipe</strong>.</p>
                 </div>
