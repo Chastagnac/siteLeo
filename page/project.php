@@ -17,7 +17,7 @@
     <section id="sec-1">
         <div class="bandeau">
             <h3>Projets</h3>
-            <p>Vous retrouverez ici des projets d'étudiant mais
+            <p>Vous retrouverez ici des projets d'étudiant mais<p>
                 également des projets personnels.</p>
         </div>
     </section>
@@ -26,7 +26,7 @@
         <h1>Projets de BTS SIO</h1>
         <h2 class="h2">GSB</h2>
         <div class="container">
-            <img src="../assets/images/gsb.jpg" alt="Grapefruit slice atop a pile of other slices">
+            <img src="../assets/images/icongsb.png" alt="image de gsb">
             <div class="objectif">
                 <h2>Objectif : </h2>
                 <p>Suite à une récente fusion le laboratoire Galaxy Swiss Bourdin souhaite uniformiser la gestion des frais professionnels des visiteurs médicaux via le développement en interne d’une
@@ -108,9 +108,9 @@
         </div>
     </section>
     <section id="sec-4">
-        <h2 class="h2">Tennis</h2>
+        <h2 class="h2">TenniScore</h2>
         <div class="container">
-            <img src="../assets/images/gsb.jpg" alt="Grapefruit slice atop a pile of other slices">
+            <img src="../assets/images/icontennis.png" alt="image du logo tenis application">
             <div class="objectif">
                 <h2>Objectif : </h2>
                 <p>En première année nous avons pu réaliser une application basée sur le tennis qui permet de suivre un match en
@@ -125,10 +125,8 @@
             </div>
             <div class="realisations">
                 <h2>Réalisations : </h2>
-                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/gsbContexte.pdf'">
+                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/'">
                     <i class="fa fa-file-pdf-o"></i></button>Documentation technique<br>
-                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/gsbContexte.pdf'">
-                    <i class="fa fa-file-pdf-o"></i></button>Contexte<br>
             </div>
         </div>
     </section>
@@ -143,7 +141,7 @@
         <h1>Projets personnel</h1>
         <h2 class="h2">Unity</h2>
         <div class="container">
-            <img src="../assets/images/gsb.jpg" alt="Grapefruit slice atop a pile of other slices">
+            <img src="../assets/images/unityicon.png" alt="image du logo unity">
             <div class="objectif">
                 <h2>Objectif : </h2>
                 <p>Suite aux circonstances, nous avons réalisé un projet en groupe pour remplacer le stage de première année.
@@ -161,23 +159,52 @@
             </div>
             <div class="realisations">
                 <h2>Réalisations : </h2>
-                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/gsbContexte.pdf'">
-                    <i class="fa fa-file-pdf-o"></i></button>Documentation technique<br>
-                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/gsbContexte.pdf'">
-                    <i class="fa fa-file-pdf-o"></i></button>Contexte<br>
+                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/Cahier_des_charges_Unity.pdf'">
+                    <i class="fa fa-file-pdf-o"></i></button>Cahier des charges<br>
             </div>
         </div>
     </section>
     <section id="sec-7">
         <div class="pic-ctn">
-            <img src="../assets/images/imggsb/1.PNG" alt="" class="pic">
-            <img src="../assets/images/imggsb/4.PNG" alt="" class="pic">
-            <img src="../assets/images/imggsb/3.PNG" alt="" class="pic">
+            <img src="../assets/images/imgunity/1.PNG" alt="" class="pic">
+            <img src="../assets/images/imgunity/2.PNG" alt="" class="pic">
+            <img src="../assets/images/imgunity/3.PNG" alt="" class="pic">
         </div>
     </section>
-<<<<<<< Updated upstream
-
-=======
+    <section id="sec-8">
+        <h2 class="h2">Unity2</h2>
+        <div class="container">
+            <img src="../assets/images/unityicon.png" alt="image du logo unity">
+            <div class="objectif">
+                <h2>Objectif : </h2>
+                <p>Suite aux circonstances, nous avons réalisé un projet en groupe pour remplacer le stage de première année.
+                    Moi et mon équipe avons créée un jeu en 2D sur Unity nommé.
+                    Parcourir les niveaux en améliorant votre équipement tout en affrontant des ennemis de plus en plus fort.</p>
+            </div>
+            <div class="outils">
+                <h2>Outils, langages et logiciels :</h2>
+                <ul>
+                    <li>Unity</li>
+                    <li>C#</li>
+                    <li>Unity Collab</li>
+                    <li>Photoshop</li>
+                </ul>
+            </div>
+            <div class="realisations">
+                <h2>Réalisations : </h2>
+                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/Cahier_des_charges_Unity.pdf'">
+                    <i class="fa fa-file-pdf-o"></i></button>Cahier des charges<br>
+                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/.pdf'">
+                    <i class="fa fa-file-pdf-o"></i></button>Contexte<br>
+            </div>
+        </div>
+    </section>
+    <section id="sec-9">
+        <div class="pic-ctn">
+            <img src="../assets/images/imgunity2/1.PNG" alt="" class="pic">
+            <img src="../assets/images/imgunity2/2.PNG" alt="" class="pic">
+            <img src="../assets/images/imgunity2/3.PNG" alt="" class="pic">
+        </div>
+    </section>
     <script src="js/app.js"></script>
->>>>>>> Stashed changes
 </body>

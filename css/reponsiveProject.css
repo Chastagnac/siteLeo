@@ -19,7 +19,7 @@
         margin-left: auto;
     }
     #sec-3 .screen {
-        margin-top : 1300px;
+        margin-top : 377px;
     }
     #sec-5 {
         margin-top : 2600px;
@@ -40,7 +40,32 @@
         margin-top: 500px;
     }
     #sec-5 {
-        margin-top :90%;
+        margin-top :194%;
+    }
+    #sec-6 {
+        margin-top :25%;
+    }
+    #sec-7 {
+        margin-top :200%;
+    }
+    #sec-9 {
+        margin-top :177%;
+    }
+    .pic-ctn > img {
+        left: auto;
+        max-width : 100%;
+    }
+    #sec-2 .realisations {
+        margin-left: auto;
+    }
+    #sec-4 .realisations {
+        margin-left: auto;
+    }
+    #sec-6 .realisations {
+        margin-left: auto;
+    }
+    #sec-8 .realisations {
+        margin-left: auto;
     }
 }
 
