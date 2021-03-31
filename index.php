@@ -46,7 +46,9 @@
                         de poursuivre mes études en <strong>licence 3 MIAGE</strong> sous contrat d'apprentissage ou de professionnalisation.
                         Etant passionné de sport, cela m'a permis d'acquérir une <strong>rigueur</strong> et un <strong>travail d'équipe</strong>.</p>
                 </div>
-
+                <button class="btncv" target="_blank" onclick="window.location.href='../assets/cv.pdf'">
+                    Téléchargez mon cv
+                </button>
             </div>
         </div>
     </section>
@@ -173,9 +175,9 @@
             <div class="card">
                 <div>
                     <span class="fa fa-rss-square"></span>
-                    <h4>Veille</h4>
-                    <p>Suivez les différentes évolutions de l'ecosystème de l'informatique !</p>
-                    <button class="btn" onclick="window.location.href='page/veille.php'">
+                    <h4>Stage</h4>
+                    <p>Suivez les différentes pratiques et évolution au cours de mon stage !</p>
+                    <button class="btn" onclick="window.location.href='page/stage.php'">
                         Y aller
                     </button>
                 </div>
@@ -184,7 +186,7 @@
     </section>
     <section id="sec-5">
         <div>
-            <h2>Compétences</h2 >
+            <h2>Compétences</h2>
         </div>
         <div class="box">
             <div class="container5">
@@ -255,7 +257,7 @@
             </div>
         </div>
     </section>
- 
+
     <section>
         <ul id="services">
             <li>
@@ -274,13 +276,15 @@
             </li>
             <li>
                 <div class="instagram">
-                    <a href="mailto:leochastagnac@gmail.com" target="_blank"> 
+                    <a href="mailto:leochastagnac@gmail.com" target="_blank">
                         <i class="fa fa-google" aria-hidden="true"></i>
                     </a>
                 </div>
             </li>
-            <h3>Léo Chastagnac<br><h4>Copyright © 2021<h4> </h3>
-        </ul>   
+            <h3>Léo Chastagnac<br>
+                <h4>Copyright © 2021<h4>
+            </h3>
+        </ul>
     </section>
     <script src="js/app.js"></script>
 

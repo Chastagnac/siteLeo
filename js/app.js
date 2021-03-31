@@ -11,6 +11,13 @@ sr.reveal(".texte p", {
     distance: "100px",
 });
 
+sr.reveal(".btncv", {
+    duration: 1500,
+    origin: "left",
+    distance: "100px",
+});
+
+
 sr.reveal(".title", {
     duration: 1500
 });

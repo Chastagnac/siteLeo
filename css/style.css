@@ -12,7 +12,16 @@ body {
 
 
 /* Section 1*/
-
+#sec-2 .btncv {
+    cursor: pointer;
+    margin: 10px;
+    border-radius: inherit;
+    padding: 10px;
+    margin-left: 100px;
+    background-color: transparent;
+    color: #474646;
+    border : 1px solid;
+}
 .logo img {
     max-width: 100%;
     margin: 5px;
