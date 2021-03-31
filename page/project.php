@@ -17,7 +17,8 @@
     <section id="sec-1">
         <div class="bandeau">
             <h3>Projets</h3>
-            <p>Vous retrouverez ici des projets d'étudiant mais<p>
+            <p>Vous retrouverez ici des projets d'étudiant mais
+            <p>
                 également des projets personnels.</p>
         </div>
     </section>
@@ -172,21 +173,23 @@
         </div>
     </section>
     <section id="sec-8">
-        <h2 class="h2">Unity2</h2>
+        <h2 class="h2">Field Of War</h2>
         <div class="container">
             <img src="../assets/images/unityicon.png" alt="image du logo unity">
             <div class="objectif">
                 <h2>Objectif : </h2>
-                <p>Suite aux circonstances, nous avons réalisé un projet en groupe pour remplacer le stage de première année.
-                    Moi et mon équipe avons créée un jeu en 2D sur Unity nommé.
-                    Parcourir les niveaux en améliorant votre équipement tout en affrontant des ennemis de plus en plus fort.</p>
+                <p>Pour continuer dans notre lancé, en parallèle du stage
+                    de seconde année, nous avons créée un nouveau jeux se
+                    nommant Field Of War. C’est un jeu de domination ou l’on
+                    invoque des combattants avec l’argent récolté afin de
+                    conquérir la base ennemis et ainsi passer les niveaux.</p>
             </div>
             <div class="outils">
                 <h2>Outils, langages et logiciels :</h2>
                 <ul>
                     <li>Unity</li>
                     <li>C#</li>
-                    <li>Unity Collab</li>
+                    <li>GitHub</li>
                     <li>Photoshop</li>
                 </ul>
             </div>
@@ -194,8 +197,6 @@
                 <h2>Réalisations : </h2>
                 <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/Cahier_des_charges_Unity.pdf'">
                     <i class="fa fa-file-pdf-o"></i></button>Cahier des charges<br>
-                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/.pdf'">
-                    <i class="fa fa-file-pdf-o"></i></button>Contexte<br>
             </div>
         </div>
     </section>
