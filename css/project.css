@@ -332,8 +332,9 @@ margin-left: 20%;
 
 .pic-ctn > img {
   position: absolute;
+  border-radius: 17px;
   top: 0;
-  left: calc(50% - 480px);
+  left: calc(50% - 470px);
   opacity: 0;
   animation: display 12s infinite;
 }
