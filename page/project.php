@@ -207,5 +207,5 @@
             <img src="../assets/images/imgunity2/3.PNG" alt="" class="pic">
         </div>
     </section>
-    <script src="js/app.js"></script>
+    <script src="../js/app.js"></script>
 </body>

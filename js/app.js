@@ -82,15 +82,77 @@ sr.reveal(".content", {
     dalay: 1000
 },1000);
 
-sr.reveal(".sec-1", {
+sr.reveal(".bandeau p", {
     origin: "left",
     distance: "100px",
     duration: 1550,
     dalay: 1000
 }, 1000);
 
-sr.reveal(".sec-2", {
+sr.reveal(".bandeau h3", {
     origin: "left",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);
+
+sr.reveal("#sec-2 h2", {
+    origin: "left",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);
+
+
+sr.reveal("#sec-2", {
+    origin: "left",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);
+
+sr.reveal("#sec-3", {
+    origin: "top",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);
+
+sr.reveal("#sec-4", {
+    origin: "left",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);
+
+sr.reveal("#sec-5", {
+    origin: "top",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);
+sr.reveal("#sec-6", {
+    origin: "left",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);
+
+sr.reveal("#sec-7", {
+    origin: "top",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);
+sr.reveal("#sec-8", {
+    origin: "left",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);
+
+sr.reveal("#sec-9", {
+    origin: "top",
     distance: "100px",
     duration: 1550,
     dalay: 1000
