@@ -175,5 +175,9 @@
             <img src="../assets/images/imggsb/3.PNG" alt="" class="pic">
         </div>
     </section>
+<<<<<<< Updated upstream
 
+=======
+    <script src="js/app.js"></script>
+>>>>>>> Stashed changes
 </body>

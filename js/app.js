@@ -75,3 +75,16 @@ sr.reveal(".content", {
     dalay: 1000
 },1000);
 
+sr.reveal(".sec-1", {
+    origin: "left",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);
+
+sr.reveal(".sec-2", {
+    origin: "left",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);
