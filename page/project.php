@@ -134,8 +134,8 @@
     <section id="sec-5">
         <div class="pic-ctn">
             <img src="../assets/images/imggsb/1.PNG" alt="" class="pic">
-            <img src="../assets/images/imggsb/4.PNG" alt="" class="pic">
-            <img src="../assets/images/imggsb/3.PNG" alt="" class="pic">
+            <img src="../assets/images/imggsb/4.png" alt="" class="pic">
+            <img src="../assets/images/imggsb/3.png" alt="" class="pic">
         </div>
     </section>
     <section id="sec-6">
@@ -201,6 +201,36 @@
         </div>
     </section>
     <section id="sec-9">
+        <div class="pic-ctn">
+            <img src="../assets/images/imgunity2/1.PNG" alt="" class="pic">
+            <img src="../assets/images/imgunity2/2.PNG" alt="" class="pic">
+            <img src="../assets/images/imgunity2/3.PNG" alt="" class="pic">
+        </div>
+    </section>
+    <section id="sec-10">
+        <h2 class="h2">La Petite Provence</h2>
+        <div class="container">
+            <img src="../assets/images/unityicon.png" alt="image du logo unity">
+            <div class="objectif">
+                <h2>Objectif : </h2>
+                <p>Durant mon contrat d'étudiant, j'ai eu l'occasion de produire le site de la Petite Provence
+                    ce qui m'a permis d'exposer une meilleure visibilité aux magasins.
+                </p>
+            </div>
+            <div class="outils">
+                <h2>Outils, langages et logiciels :</h2>
+                <ul>
+                    <li>WordPress</li>
+                    <li>HTML/CSS</li>
+                </ul>
+            </div>
+            <div class="realisations">
+                <h2>Réalisations : </h2>
+                <a href="../../../lapetiteprovenceepicerie.com">La Petite Provence</a>
+            </div>
+        </div>
+    </section>
+    <section id="sec-11">
         <div class="pic-ctn">
             <img src="../assets/images/imgunity2/1.PNG" alt="" class="pic">
             <img src="../assets/images/imgunity2/2.PNG" alt="" class="pic">

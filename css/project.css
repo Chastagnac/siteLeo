@@ -440,6 +440,49 @@ float: left;
   max-width: 100%;
 }
 
+/* SECTION 6 */
+
+#sec-10 .h2{
+  font-size: 35px;
+  text-align: center;
+  margin: auto;
+}
+
+#sec-10 {
+  position: absolute;
+  margin-top: 20%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#sec-10 img {
+width: 300px;
+height: 300px;
+float: left;
+}
+#sec-10 .realisations {
+  float: left;
+  margin-left: 20%;
+  }
+
+#sec-10 .outils {
+  float: left;
+}
+
+#sec-10 button {
+  font-size:24px; 
+  border : none; 
+  background-color : #fff;
+  cursor: pointer;
+  }
+  
+
+#sec-11 {
+  display: inline-block;
+  margin-top: 35%;
+  max-width: 100%;
+}
+
 .fa.fa-file-pdf-o:hover {
   color: red;
 }
