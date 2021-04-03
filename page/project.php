@@ -210,7 +210,7 @@
     <section id="sec-10">
         <h2 class="h2">La Petite Provence</h2>
         <div class="container">
-            <img src="../assets/images/unityicon.png" alt="image du logo unity">
+            <img src="../assets/images/imglpp/logo.png" alt="image du logo unity">
             <div class="objectif">
                 <h2>Objectif : </h2>
                 <p>Durant mon contrat d'étudiant, j'ai eu l'occasion de produire le site de la Petite Provence
@@ -226,15 +226,17 @@
             </div>
             <div class="realisations">
                 <h2>Réalisations : </h2>
-                <a href="../../../lapetiteprovenceepicerie.com">La Petite Provence</a>
+                <button target="_blank" onclick="window.location.href='http://www.lapetiteprovenceepicerie.com/'">
+                    <i class="fas fa-link"></i></button>La Petite Provence<br>
+            
             </div>
         </div>
     </section>
     <section id="sec-11">
         <div class="pic-ctn">
-            <img src="../assets/images/imgunity2/1.PNG" alt="" class="pic">
-            <img src="../assets/images/imgunity2/2.PNG" alt="" class="pic">
-            <img src="../assets/images/imgunity2/3.PNG" alt="" class="pic">
+            <img src="../assets/images/imglpp/1.png" alt="" class="pic">
+            <img src="../assets/images/imglpp/2.png" alt="" class="pic">
+            <img src="../assets/images/imglpp/3.png" alt="" class="pic">
         </div>
     </section>
     <script src="../js/app.js"></script>
