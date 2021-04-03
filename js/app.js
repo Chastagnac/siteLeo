@@ -111,12 +111,6 @@ sr.reveal("#sec-2", {
     dalay: 1000
 }, 1000);
 
-sr.reveal("#sec-3", {
-    origin: "top",
-    distance: "100px",
-    duration: 1550,
-    dalay: 1000
-}, 1000);
 
 sr.reveal("#sec-4", {
     origin: "left",
@@ -125,12 +119,7 @@ sr.reveal("#sec-4", {
     dalay: 1000
 }, 1000);
 
-sr.reveal("#sec-5", {
-    origin: "top",
-    distance: "100px",
-    duration: 1550,
-    dalay: 1000
-}, 1000);
+
 sr.reveal("#sec-6", {
     origin: "left",
     distance: "100px",
@@ -138,12 +127,7 @@ sr.reveal("#sec-6", {
     dalay: 1000
 }, 1000);
 
-sr.reveal("#sec-7", {
-    origin: "top",
-    distance: "100px",
-    duration: 1550,
-    dalay: 1000
-}, 1000);
+
 sr.reveal("#sec-8", {
     origin: "left",
     distance: "100px",
@@ -151,9 +135,12 @@ sr.reveal("#sec-8", {
     dalay: 1000
 }, 1000);
 
-sr.reveal("#sec-9", {
-    origin: "top",
+
+
+sr.reveal("#sec-10", {
+    origin: "left",
     distance: "100px",
     duration: 1550,
     dalay: 1000
 }, 1000);
+
