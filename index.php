@@ -29,7 +29,8 @@
             <div class="slogan">
                 <h1>De la recherche </h1>
                 <p>au</p>
-                <h1>Développement.</h1>
+                <h1>Développement.</h1><br>
+                <p>Etudiant en BTS SIO option Slam en recherche d'alternance.</p>
             </div>
             <div class="imgMove2" data-rellax-speed="8">
                 <img src="assets/images/icon3.jpg" class="img3" alt="imagedeco" />
@@ -47,9 +48,82 @@
                         de poursuivre mes études en <strong>licence 3 MIAGE</strong> sous contrat d'apprentissage ou de professionnalisation.
                         Etant passionné de sport, cela m'a permis d'acquérir une <strong>rigueur</strong> et un <strong>travail d'équipe</strong>.</p>
                 </div>
-                <button class="btncv" target="_blank" onclick="window.location.href='../assets/cv.pdf'">
-                    Téléchargez mon cv
-                </button>
+                <a class="btncv" target="_blank" href="../assets/cv.pdf">
+                    Afficher mon cv
+                </a>
+            </div>
+        </div>
+    </section>
+    <section id="sec-5">
+        <div>
+            <h2>Compétences</h2>
+        </div>
+        <div class="box">
+            <div class="container5">
+                <div class="content">
+                    <span>PHP</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_1" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>75%</p>
+                </div>
+                <div class="content">
+                    <span>HTML/CSS/JS</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_2" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>70%</p>
+                </div>
+                <div class="content">
+                    <span>Algorithmie</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_3" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>75%</p>
+                </div>
+                <div class="content">
+                    <span>SQL</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_4" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>60%</p>
+                </div>
+                <div class="content">
+                    <span>Unity/C#</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_5" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>80%</p>
+                </div>
+                <div class="content">
+                    <span>Réseaux</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_6" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>55%</p>
+                </div>
+                <div class="content">
+                    <span>Suite Office</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_7" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>90%</p>
+                </div>
+                <div class="content">
+                    <span>Sony Vegas</span>
+                    <svg>
+                        <circle cx="70" cy="70px" r="70px"></circle>
+                        <circle class="circle_8" cx="70" cy="70px" r="70px"></circle>
+                    </svg>
+                    <p>95%</p>
+                </div>
             </div>
         </div>
     </section>
@@ -185,79 +259,7 @@
             </div>
         </div>
     </section>
-    <section id="sec-5">
-        <div>
-            <h2>Compétences</h2>
-        </div>
-        <div class="box">
-            <div class="container5">
-                <div class="content">
-                    <span>Front-End</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_1" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>75%</p>
-                </div>
-                <div class="content">
-                    <span>Back-End</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_2" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>70%</p>
-                </div>
-                <div class="content">
-                    <span>Algorithmie</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_3" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>75%</p>
-                </div>
-                <div class="content">
-                    <span>Data</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_4" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>60%</p>
-                </div>
-                <div class="content">
-                    <span>Unity/C#</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_5" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>80%</p>
-                </div>
-                <div class="content">
-                    <span>Réseaux</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_6" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>55%</p>
-                </div>
-                <div class="content">
-                    <span>Suite Office</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_7" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>90%</p>
-                </div>
-                <div class="content">
-                    <span>Sony Vegas</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_8" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>95%</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    
 
     <section>
         <ul id="services">

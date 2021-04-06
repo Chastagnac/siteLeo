@@ -1,5 +1,7 @@
 * {
     font-family: "Poppins";
+    text-decoration: none;
+    color: #2b3345;
 }
 
 body {
@@ -480,10 +482,79 @@ margin: 10px;
 
 #sec-11 {
   display: inline-block;
- 
   max-width: 100%;
 }
 
 .fa.fa-file-pdf-o:hover {
   color: red;
+}
+
+.fa.fa-file-pdf-o {
+  margin: 10px;
+  color : #2b3345;
+}
+.fas.fa-link {
+  margin: 10px;
+  color : #2b3345;
+}
+
+.fas.fa-link:hover {
+color: red;
+}
+
+.fa-arrow-circle-left:before {
+    content: "\f0a8";
+    color: antiquewhite;
+    font-size: 5em;
+    margin: 10px;
+    display: block;
+}
+
+
+section #services {
+  text-align: center;
+  background-color: #2b3345;
+  transform: translatez(0);
+  position: absolute;
+  width: -webkit-fill-available;
+}
+section #services h2 {
+  margin: 80px 0px 40px;
+  color: #fff;
+  font-size: 2.4em;
+  text-transform: uppercase;
+  text-align: center;
+}
+section #services li {
+  width: 120px;
+  display: inline-block;
+  margin: 20px;
+  list-style: none;
+}
+section #services li div {
+  width: 75px;
+  font-size: 2.4em;
+  text-align: center;
+  line-height: 75px;
+  background-color: #15171dd6;
+  border-radius: 20px;
+  transition: all 0.5s ease;;
+  transition: all 0.5s ease;
+}
+section #services li a {
+  color: #fff;
+}
+section #services li div:hover {
+  transform: rotate(360deg);
+  border-radius: 100px;
+}
+section #services h3 {
+    color: #fff;
+    text-align: center;
+    margin-right: 30px;
+}
+section #services h4 {
+  color: #fff;
+  margin-right: 30px;
+  text-align: center;
 }

@@ -16,11 +16,15 @@
 
 <body>
     <section id="sec-1">
+        <div class="affiche">
+            <a href="../index.php">
+                <i class="fas fa-arrow-circle-left"></i>
+            </a>
+        </div>
         <div class="bandeau">
             <h3>Projets</h3>
-            <p>Vous retrouverez ici des projets d'étudiant mais
-            <p>
-                également des projets personnels.</p>
+            <p>Vous trouverez ici des projets d'étudiant mais
+            <p>également des projets personnels.</p>
         </div>
     </section>
 
@@ -47,12 +51,12 @@
             </div>
             <div class="realisations">
                 <h2>Réalisations : </h2>
-                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/gsbContexte.pdf'">
-                    <i class="fa fa-file-pdf-o"></i></button>Contexte<br>
-                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/Documentation_Fonctionnelle.pdf'">
-                    <i class="fa fa-file-pdf-o"></i></button>Documentation fonctionnelle<br>
-                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/compteRendu.pdf'">
-                    <i class="fa fa-file-pdf-o"></i></button>Compte rendu<br>
+                <a target="_blank" href="../assets/images/projectpdf/gsbContexte.pdf">
+                    <i class="fa fa-file-pdf-o"></i>Contexte<br></a>
+                <a target="_blank" href="../assets/images/projectpdf/Documentation_Fonctionnelle.pdf">
+                    <i class="fa fa-file-pdf-o"></i>Documentation fonctionnelle<br></a>
+                <a target="_blank" href="../assets/images/projectpdf/compteRendu.pdf">
+                    <i class="fa fa-file-pdf-o"></i>Compte rendu<br></a>
             </div>
         </div>
     </section>
@@ -78,12 +82,12 @@
                         <div class="play-icon">
                             <svg width="20" height="20" fill="#2992dc" stroke="#2992dc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="feather feather-play" viewBox="0 0 24 24">
                                 <defs />
-                                <path d="M5 3l14 9-14 9V3z" />
+                                <path d="M5 3l14 9-14 9V3z" />-
                             </svg>
                         </div>
                         <div class="info-area" id="test">
                             <label class="song-info" id="song-info-1">
-                                <div class="title">Page de connection à GSB</div>
+                                <div class="title">Page de connexion à GSB</div>
                                 <div class="sub-line">
                                     <div class="subtitle">Léo Chastagnac</div>
                                 </div>
@@ -127,8 +131,8 @@
             </div>
             <div class="realisations">
                 <h2>Réalisations : </h2>
-                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/'">
-                    <i class="fa fa-file-pdf-o"></i></button>Documentation technique<br>
+                <a target="_blank" href="../assets/images/projectpdf/">
+                    <i class="fa fa-file-pdf-o"></i>Documentation technique</a><br>
             </div>
         </div>
     </section>
@@ -161,8 +165,8 @@
             </div>
             <div class="realisations">
                 <h2>Réalisations : </h2>
-                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/Cahier_des_charges_Unity.pdf'">
-                    <i class="fa fa-file-pdf-o"></i></button>Cahier des charges<br>
+                <a target="_blank" href="../assets/images/projectpdf/Cahier_des_charges_Unity.pdf">
+                    <i class="fa fa-file-pdf-o"></i>Cahier des charges</a><br>
             </div>
         </div>
     </section>
@@ -196,8 +200,8 @@
             </div>
             <div class="realisations">
                 <h2>Réalisations : </h2>
-                <button target="_blank" onclick="window.location.href='../assets/images/projectpdf/Cahier_des_charges_Unity.pdf'">
-                    <i class="fa fa-file-pdf-o"></i></button>Cahier des charges<br>
+                <a target="_blank" href="../assets/images/projectpdf/Cahier_des_charges_Unity.pdf">
+                    <i class="fa fa-file-pdf-o"></i>Cahier des charges</a><br>
             </div>
         </div>
     </section>
@@ -227,9 +231,9 @@
             </div>
             <div class="realisations">
                 <h2>Réalisations : </h2>
-                <button target="_blank" onclick="window.location.href='http://www.lapetiteprovenceepicerie.com/'">
-                    <i class="fas fa-link"></i></button>La Petite Provence<br>
-            
+                <a target="_blank" href="http://www.lapetiteprovenceepicerie.com/">
+                    <i class="fas fa-link"></i>La Petite Provence</a><br>
+
             </div>
         </div>
     </section>
@@ -240,5 +244,34 @@
             <img src="../assets/images/imglpp/3.png" alt="" class="pic">
         </div>
     </section>
+    <section>
+        <ul id="services">
+            <li>
+                <div class="linkedin">
+                    <a href="https://www.linkedin.com/in/l%C3%A9o-chastagnac/" target="_blank">
+                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </li>
+            <li>
+                <div class="github">
+                    <a href="https://github.com/Chastagnac" target="_blank">
+                        <i class="fa fa-github" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </li>
+            <li>
+                <div class="instagram">
+                    <a href="mailto:leochastagnac@gmail.com" target="_blank">
+                        <i class="fa fa-google" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </li>
+            <h3>Léo Chastagnac<br>
+                <h4>Copyright © 2021<h4>
+            </h3>
+        </ul>
+    </section>
     <script src="../js/app.js"></script>
+    <script src="../js/scroll.js"></script>
 </body>
