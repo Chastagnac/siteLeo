@@ -46,7 +46,7 @@
                     <li>MySql</li>
                     <li>Wamp</li>
                     <li>JavaScript</li>
-                    <li>NetBians</li>
+                    <li>Netbeans</li>
                 </ul>
             </div>
             <div class="realisations">
