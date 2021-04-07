@@ -485,6 +485,51 @@ margin: 10px;
   max-width: 100%;
 }
 
+
+/* SECTION 7 */
+
+#sec-12 .h2{
+  font-size: 35px;
+  text-align: center;
+  margin: auto;
+}
+
+#sec-12 {
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#sec-12 img {
+width: 300px;
+height: 300px;
+float: left;
+}
+
+
+#sec-12 .outils {
+  float: left;
+}
+#sec-12 button {
+font-size:24px; 
+border : none; 
+background-color : #fff;
+cursor: pointer;
+}
+
+#sec-12 .realisations {
+float: left;
+margin-left: 20%;
+}
+
+#sec-13 {
+  display: inline-block;
+  margin-top: 45%;
+  max-width: 100%;
+}
+
+
 .fa.fa-file-pdf-o:hover {
   color: red;
 }
@@ -502,8 +547,7 @@ margin: 10px;
 color: red;
 }
 
-.fa-arrow-circle-left:before {
-    content: "\f0a8";
+.fas.fa-home:before {
     color: antiquewhite;
     font-size: 5em;
     margin: 10px;
@@ -512,6 +556,7 @@ color: red;
 
 
 section #services {
+  margin-top: 10%;
   text-align: center;
   background-color: #2b3345;
   transform: translatez(0);

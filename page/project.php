@@ -18,7 +18,7 @@
     <section id="sec-1">
         <div class="affiche">
             <a href="../index.php">
-                <i class="fas fa-arrow-circle-left"></i>
+                <i class="fas fa-home"></i>
             </a>
         </div>
         <div class="bandeau">
@@ -27,7 +27,6 @@
             <p>également des projets personnels.</p>
         </div>
     </section>
-
     <section id="sec-2">
         <h1>Projets de BTS SIO</h1>
         <h2 class="h2">GSB</h2>
@@ -140,6 +139,35 @@
         <div class="pic-ctn">
             <img src="../assets/images/imggsb/1.PNG" alt="" class="pic">
             <img src="../assets/images/imggsb/4.png" alt="" class="pic">
+            <img src="../assets/images/imggsb/3.png" alt="" class="pic">
+        </div>
+    </section>
+    <section id="sec-12">
+        <h2 class="h2">Maison Des ligues</h2>
+        <div class="container">
+            <img src="../assets/images/mdl/mdl.png" alt="image du logo mdl">
+            <div class="objectif">
+                <h2>Objectif : </h2>
+                <p>La Maison des Ligues a pour mission de fournir des espaces et des services aux différentes ligues sportives régionales et à d’autres structures hébergées. La M2L est une structure financée par le Conseil Régional de Lorraine dont l’administration est déléguée au Comité Régional Olympique et Sportif de Lorraine (CROSL).</p>
+            </div>
+            <div class="outils">
+                <h2>Outils, langages et logiciels :</h2>
+                <ul>
+                    <li>Symfony</li>
+                    <li>Vs Code</li>
+                </ul>
+            </div>
+            <div class="realisations">
+                <h2>Réalisations : </h2>
+                <a target="_blank" href="../assets/images/projectpdf/mdl.pdf">
+                    <i class="fa fa-file-pdf-o"></i>Contexte</a><br>
+            </div>
+        </div>
+    </section>
+    <section id="sec-13">
+        <div class="pic-ctn">
+            <img src="../assets/images/imggsb/1.PNG" alt="" class="pic">
+            <img src="../assets/images/imggsb/2.png" alt="" class="pic">
             <img src="../assets/images/imggsb/3.png" alt="" class="pic">
         </div>
     </section>
@@ -272,6 +300,6 @@
             </h3>
         </ul>
     </section>
+
     <script src="../js/app.js"></script>
-    <script src="../js/scroll.js"></script>
 </body>

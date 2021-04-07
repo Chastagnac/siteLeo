@@ -30,7 +30,7 @@
                 <h1>De la recherche </h1>
                 <p>au</p>
                 <h1>Développement.</h1><br>
-                <p>Etudiant en BTS SIO option Slam en recherche d'alternance.</p>
+                <p>Etudiant en BTS SIO option Slam en recherche d'alternance.</p><br>↓
             </div>
             <div class="imgMove2" data-rellax-speed="8">
                 <img src="assets/images/icon3.jpg" class="img3" alt="imagedeco" />
