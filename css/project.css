@@ -98,7 +98,7 @@ h2 {
 }
 
 #sec-3 .screen .container {
-  max-width: 800px;
+  max-width: 1000px;
   max-height: 600px;
   height: 100%;
   transform-style: preserve-3d;
@@ -338,7 +338,7 @@ margin-left: 20%;
   top: 0;
   left: calc(50% - 460px);
   opacity: 0;
-  animation: display 16s infinite;
+  animation: display 11s infinite;
 }
 
 img:nth-child(2) {
@@ -438,7 +438,7 @@ float: left;
 
 #sec-9 {
   display: inline-block;
-  margin-top: 35%;
+  margin-top: 37%;
   max-width: 100%;
 }
 
@@ -556,7 +556,7 @@ color: red;
 
 
 section #services {
-  margin-top: 10%;
+  margin-top: 15%;
   text-align: center;
   background-color: #2b3345;
   transform: translatez(0);

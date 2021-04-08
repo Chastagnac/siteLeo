@@ -232,6 +232,37 @@
                         </div>
                     </div>
                 </div>
+                <div class="trait_dessus"><br>
+                    <hr>
+                </div>
+                <br>
+                <h2 clas="sco">Centre d'intétêt</h2>
+                <div class="experience">
+                    <div class="col-1">
+                        <div class="lieu">Musique</div>
+                        <div class="date">2015</div>
+                    </div>
+                    <div class="col-2">
+                        <div class="profession"><br>En autodidacte</div>
+                        <div class="details">Depuis mes 14 ans, je suis passionné de guitare (classique, acoustique, électrique...)
+                            j'aime pouvoir créer, improviser, ou encore repprendre des musiques que j'affectionne particulièrement.
+
+                        </div>
+                    </div>
+                    <div class="trait_dessus">
+                        <hr>
+                    </div>
+                    <div class="col-1">
+                        <div class="lieu">Sport</div>
+                        <div class="date">2014</div>
+                    </div>
+                    <div class="col-2">
+                        <div class="profession"><br>Musculation / Street Workout</div>
+                        <div class="details">Grâce à la musculation que je pratique depuis mon jeune age, j'ai pu acquérir une
+                            réelle discipline dans ce que j'entreprend mais également connaitre le fonctionnement de corps, ses capacités comme ses limites.
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -259,7 +290,7 @@
             </div>
         </div>
     </section>
-    
+
 
     <section>
         <ul id="services">

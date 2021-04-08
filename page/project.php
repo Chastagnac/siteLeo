@@ -137,9 +137,9 @@
     </section>
     <section id="sec-5">
         <div class="pic-ctn">
-            <img src="../assets/images/imggsb/1.PNG" alt="" class="pic">
-            <img src="../assets/images/imggsb/4.png" alt="" class="pic">
-            <img src="../assets/images/imggsb/3.png" alt="" class="pic">
+            <img src="../assets/images/imgtennis/1.png" alt="tenis" class="pic" style="margin-left : 280px;">
+            <img src="../assets/images/imgtennis/2.png" alt="tenis" class="pic" style="margin-left : 280px;">
+            <img src="../assets/images/imgtennis/3.png" alt="tenis" class="pic" style="margin-left : 280px;">
         </div>
     </section>
     <section id="sec-12">
