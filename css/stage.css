@@ -39,20 +39,27 @@ body {
 /* SECTION 2*/
 
 #sec-2 {
-    display: table;
+    margin: auto;
+    width: 80%;
+}
+
+#sec-2 .container {
+    text-align: -webkit-center;
 }
 
 div.gallery {
     margin: 10px;
     margin-top: 30px;
     border: 1px solid #ccc;
-    float: left;
+    display: inline-block;
     width: 395px;
   }
   
   div.gallery:hover {
     border: 1px solid #777;
+    box-shadow: -2px 7px 93px -10px rgba(0,0,0,0.75);
   }
+
   
   div.gallery img {
     width: 100%;
@@ -62,5 +69,26 @@ div.gallery {
   div.desc {
     padding: 15px;
     text-align: center;
-  }
-  
+}
+
+#sec-3 {
+    margin-top: 50px;
+}
+
+#sec-3 .container {
+    width: 80%;
+    margin: auto;
+}
+
+#sec-3 .container img {
+    float: left;
+    height: 350px;
+    margin-right: 15px;
+}
+
+#sec-3 .container .texte {
+    float: left;
+    text-align: justify;
+    margin-left: 5px;
+    display: contents;
+}
