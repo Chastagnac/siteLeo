@@ -171,41 +171,8 @@
             <img src="../assets/images/imggsb/3.png" alt="" class="pic">
         </div>
     </section>
-    <section id="sec-6">
-        <h1>Projets personnel</h1>
-        <h2 class="h2">Alban's Adventure</h2>
-        <div class="container">
-            <img src="../assets/images/unityicon.png" alt="image du logo unity">
-            <div class="objectif">
-                <h2>Objectif : </h2>
-                <p>Suite aux circonstances, nous avons réalisé un projet en groupe pour remplacer le stage de première année.
-                    Moi et mon équipe avons créée un jeu en 2D sur Unity nommé Alban's Adventure.
-                    Vous incarnerez Alban le jeune chevalier, arpenter les niveaux en améliorant votre équipement tout en affrontant des ennemis de plus en plus fort.</p>
-            </div>
-            <div class="outils">
-                <h2>Outils, langages et logiciels :</h2>
-                <ul>
-                    <li>Unity</li>
-                    <li>C#</li>
-                    <li>Unity Collab</li>
-                    <li>Photoshop</li>
-                </ul>
-            </div>
-            <div class="realisations">
-                <h2>Réalisations : </h2>
-                <a target="_blank" href="../assets/images/projectpdf/Cahier_des_charges_Unity.pdf">
-                    <i class="fa fa-file-pdf-o"></i>Cahier des charges</a><br>
-            </div>
-        </div>
-    </section>
-    <section id="sec-7">
-        <div class="pic-ctn">
-            <img src="../assets/images/imgunity/1.PNG" alt="" class="pic">
-            <img src="../assets/images/imgunity/2.PNG" alt="" class="pic">
-            <img src="../assets/images/imgunity/3.PNG" alt="" class="pic">
-        </div>
-    </section>
     <section id="sec-8">
+    <h1>Projets personnel</h1>
         <h2 class="h2">Field Of War</h2>
         <div class="container">
             <img src="../assets/images/unityicon.png" alt="image du logo unity">
