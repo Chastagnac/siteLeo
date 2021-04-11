@@ -1,0 +1,43 @@
+@media screen and (max-width: 600px) {
+    #sec-1 .container {
+        float: none;
+        width: 100%;
+    }
+
+    #sec-3 .container img {
+        float: none;
+        max-width: 100%;
+        margin-right: 15px;
+        border-radius: 5px;
+    }
+    #sec-3 {
+        width: 100%;
+        margin-left: 5%;
+    }
+
+    #sec-3 .container {
+        width: 100%;
+    }
+
+    #sec-2 {
+        margin: 0;
+    }
+
+    .fas.fa-home:before {
+        font-size: 2em;
+    }
+
+    #sec-4 {
+        margin: auto;
+        width: 100%;
+        margin-left: 5%;
+    }
+    #sec-4 .method {
+        float: none;
+    }
+
+    #sec-4 .container {
+        width: 100%;
+        float: none;
+    }
+  }

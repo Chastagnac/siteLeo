@@ -72,7 +72,7 @@ div.gallery {
 }
 
 #sec-3 {
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
 #sec-3 .container {
@@ -84,6 +84,7 @@ div.gallery {
     float: left;
     height: 350px;
     margin-right: 15px;
+    border-radius: 5px;
 }
 
 #sec-3 .container .texte {
@@ -91,4 +92,60 @@ div.gallery {
     text-align: justify;
     margin-left: 5px;
     display: contents;
+}
+
+#sec-4 {
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    margin-top: 8%;
+}
+
+
+#sec-4 .container {
+    border-left: groove;
+    float: left;
+    width: 70%;
+    text-align: justify;
+}
+
+#sec-4 .container p {
+    margin-left: 9px;
+}
+
+#sec-4 img {
+    width: 20%;
+    border-radius: 50%;
+}
+
+.fas.fa-home:before {
+    color: #2b3345;
+    position: absolute;
+    font-size: 5em;
+    margin: 10px;
+    display: block;
+}
+
+#sec-4 .method {
+    float: left;
+}
+
+#sec-4 .method ul{
+    float: left;
+}
+
+#sec-4 .photo {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#sec-4 .photo img:nth-child(2) {
+    position: absolute;
+    margin : 45px 5px 0 0;
+    width: 17%;
+}
+
+#sec-4 .photo img:nth-child(3) {
+    margin-top: 35px;
+    width: 17%;
 }
