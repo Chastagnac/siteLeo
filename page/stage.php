@@ -7,6 +7,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../css/stage.css" />
+    <link rel="icon" type="image/png" href="assets/images/icon1.png" />
     <link rel="stylesheet" href="../css/reponsivestage.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.12.1/rellax.min.js"></script>
     <script src="https://kit.fontawesome.com/d7d3f46c80.js" crossorigin="anonymous"></script>
@@ -161,4 +162,34 @@
             </div>
         </div>
     </section>
+    <section>
+        <ul id="services">
+            <li>
+                <div class="linkedin">
+                    <a href="https://www.linkedin.com/in/l%C3%A9o-chastagnac/" target="_blank">
+                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </li>
+            <li>
+                <div class="github">
+                    <a href="https://github.com/Chastagnac" target="_blank">
+                        <i class="fa fa-github" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </li>
+            <li>
+                <div class="instagram">
+                    <a href="mailto:leochastagnac@gmail.com" target="_blank">
+                        <i class="fa fa-google" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </li>
+            <h3>Léo Chastagnac<br>
+                <h4>Copyright © 2021<h4>
+            </h3>
+        </ul>
+    </section>
+
+    <script src="../js/stage.js"></script>
 </body>
