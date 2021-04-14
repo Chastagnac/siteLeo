@@ -87,25 +87,78 @@
         <br>
         <h1>Evoliz</h1>
         <div class="container">
-            <p> Le BTS Services Informatiques aux Organisations offre la possibilité d'effectuer 2 stages en entreprise durant le cursus. Néanmoins, suite au Covid, notre stage de première année s'est vu annulé
-                Pour pallier à ce manque, nous avons organisé un groupe de travail pour créer un jeu 2d : Alban's Adventure.
+            <p>
+                Evoliz est un logiciel de facturation / gestion / comptabilité certifié loi
+                anti-fraude à la TVA qui permet de gérer vos ventes et vos achats en toute légalité.
+                <br>
+                Leur but est de répondre aux besoins des entrepreneurs et travailleurs indépendants
+                en proposant un outil accessible et complet afin de faciliter la gestion de leur activité.
             </p>
         </div>
         <img src="../assets/images/imgevoliz/logo.jpg" alt="image du logo evoliz">
         <div class="method">
-            <h2>Méthodes de travail : </h2>
+            <h2>Méthodes & outils de travail : </h2>
             <ul>
                 <li>PHP</li>
-                <li>PHP</li>
-                <li>PHP</li>
-                <li>PHP</li>
+                <li>JavaScript</li>
+                <li>Curl</li>
+                <li>Vscode</li>
+                <li>Bitbucket</li>
+                <li>Slack</li>
+                <li>Docker</li>
             </ul>
         </div>
-        <div class="photo">
-            <img src="../assets/images/imgevoliz/logo.jpg" alt="image du logo evoliz">
-            <img src="../assets/images/imgevoliz/logo.jpg" alt="image du logo evoliz">
-            <img src="../assets/images/imgevoliz/logo.jpg" alt="image du logo evoliz">
+        <div class="realisations">
+            <h2>Réalisations : </h2>
+            <a target="_blank" href="../assets/images/projectpdf/crevooliz.pdf">
+                <i class="fa fa-file-pdf-o"></i>Compte rendu<br></a>
         </div>
+        <div class="photo">
+            <img src="../assets/images/imgevoliz/js.png" alt="image du logo evoliz">
+            <img src="../assets/images/imgevoliz/php.png" alt="image du logo evoliz">
+            <img src="../assets/images/imgevoliz/bit.png" alt="image du logo evoliz">
+        </div>
+    </section>
+    <section id="sec-5">
+        <div class="container">
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgevoliz/1.png">
+                    <img src="../assets/images/imgevoliz/1.png" alt="modele png" width="600" height="400">
+                </a>
+                <div class="desc">Modèles des documents</div>
+            </div>
 
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgevoliz/2.png">
+                    <img src="../assets/images/imgevoliz/2.png" alt="actions png" width="600" height="400">
+                </a>
+                <div class="desc">possibilités d'actions</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgevoliz/3.png">
+                    <img src="../assets/images/imgevoliz/3.png" alt="img jeu" width="600" height="400">
+                </a>
+                <div class="desc">Réupération des données à l'aide de l'API</div>
+            </div>
+
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgevoliz/4.png">
+                    <img src="../assets/images/imgevoliz/4.png" alt="img jeu" width="600" height="400">
+                </a>
+                <div class="desc">Amélioration de la récupération de données</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgevoliz/5.png">
+                    <img src="../assets/images/imgevoliz/5.png" alt="img jeu" width="600" height="400">
+                </a>
+                <div class="desc">ServiceSalesMachineClass & méthodes</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgevoliz/6.png">
+                    <img src="../assets/images/imgevoliz/6.png" alt="img jeu" width="600" height="400">
+                </a>
+                <div class="desc">Méthode de suppression d'un compte</div>
+            </div>
+        </div>
     </section>
 </body>
