@@ -146,7 +146,7 @@
                 <a target="_blank" href="../assets/images/imgevoliz/4.png">
                     <img src="../assets/images/imgevoliz/4.png" alt="img jeu" width="600" height="400">
                 </a>
-                <div class="desc">Amélioration de la récupération de données</div>
+                <div class="desc">Amélioration de la récupération des données</div>
             </div>
             <div class="gallery">
                 <a target="_blank" href="../assets/images/imgevoliz/5.png">
@@ -158,7 +158,7 @@
                 <a target="_blank" href="../assets/images/imgevoliz/6.png">
                     <img src="../assets/images/imgevoliz/6.png" alt="img jeu" width="600" height="400">
                 </a>
-                <div class="desc">Méthode de suppression d'un compte</div>
+                <div class="desc">Méthodes de suppression d'un compte</div>
             </div>
         </div>
     </section>
