@@ -172,7 +172,7 @@
         </div>
     </section>
     <section id="sec-8">
-    <h1>Projets personnel</h1>
+        <h1>Projets personnel</h1>
         <h2 class="h2">Field Of War</h2>
         <div class="container">
             <img src="../assets/images/unityicon.png" alt="image du logo unity">
@@ -237,6 +237,65 @@
             <img src="../assets/images/imglpp/1.png" alt="" class="pic">
             <img src="../assets/images/imglpp/2.png" alt="" class="pic">
             <img src="../assets/images/imglpp/3.png" alt="" class="pic">
+        </div>
+    </section>
+    <section id="sec-14">
+        <h2 class="h2">Complement'Box</h2>
+        <div class="container">
+            <img src="../assets/images/imgbox/blanc.jpg" alt="image du logo complementbox">
+            <div class="objectif">
+                <h2>Objectif : </h2>
+                <p>Complement'Box est une box mensuel de compléments alimentaires vous permettant de
+                    découvrir de nouveaux compléments basé sur la naturopathie afin d'équilibrer le
+                    fonctionnement de l'organisme par des moyens vus comme « naturels ».
+                    <br>
+                    Vous obtiendrez également un magazine sur comment les utilisés leurs
+                    utilités ainsi qu'un suivi sportif tout au long du mois.
+                </p>
+            </div>
+            <div class="outils">
+                <h2>Outils et logiciels :</h2>
+                <ul>
+                    <li>Subbly</li>
+                    <li>Canva</li>
+                    <li>Photoshop</li>
+                </ul>
+            </div>
+            <div class="realisations">
+                <h2>Réalisations : </h2>
+                <a target="_blank" href="http://www.complementbox.com/">
+                    <i class="fas fa-link"></i>Futur site "Complement'Box"</a><br>
+
+            </div>
+        </div>
+    </section>
+    <section id="sec-15">
+        <div class="container">
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgbox/magazine1.png">
+                    <img src="../assets/images/imgbox/magazine1.png" alt="magazine png" width="600" height="400">
+                </a>
+                <div class="desc">Couverture du magazine</div>
+            </div>
+
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgbox/magazine3.png">
+                    <img src="../assets/images/imgbox/magazine3.png" alt="magazine2 png" width="600" height="400">
+                </a>
+                <div class="desc">Page sur les découvertes du mois</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgbox/magazine2.png">
+                    <img src="../assets/images/imgbox/magazine2.png" alt="magazine2 png" width="600" height="400">
+                </a>
+                <div class="desc">Page sur le programme sportif</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgbox/box.png">
+                    <img src="../assets/images/imgbox/box.png" alt="magazine2 png" width="600" height="400">
+                </a>
+                <div class="desc">La box</div>
+            </div>
         </div>
     </section>
     <section>

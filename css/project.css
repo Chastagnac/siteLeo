@@ -530,6 +530,46 @@ margin-left: 20%;
 }
 
 
+
+/* SECTION 8 */
+
+#sec-14 .h2{
+  font-size: 35px;
+  text-align: center;
+  margin: auto;
+}
+
+#sec-14 {
+  margin-top: 14%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#sec-14 img {
+width: 300px;
+height: 300px;
+float: left;
+}
+
+
+#sec-14 .outils {
+  float: left;
+}
+#sec-14 button {
+font-size:24px; 
+border : none; 
+background-color : #fff;
+cursor: pointer;
+}
+
+#sec-14 .realisations {
+float: left;
+margin-left: 20%;
+}
+
+
+
+
 .fa.fa-file-pdf-o:hover {
   color: red;
 }
@@ -602,4 +642,45 @@ section #services h4 {
   color: #fff;
   margin-right: 30px;
   text-align: center;
+}
+
+
+#sec-15 {
+  margin: auto;
+  margin-top: 15%;
+  width: 80%;
+}
+
+#sec-15 .container {
+  text-align: -webkit-center;
+}
+
+div.gallery {
+  margin: 10px;
+  margin-top: 30px;
+  border: 1px solid #ccc;
+  display: inline-block;
+  width: 395px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+  box-shadow: -2px 7px 93px -10px rgba(0,0,0,0.75);
+}
+
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+#sec-14 img {
+  border-radius: 50%;
+  color: black;
+  margin: 5px;
 }
