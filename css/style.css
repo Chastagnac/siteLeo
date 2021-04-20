@@ -556,3 +556,25 @@ section #services {
     padding: 20px;
     max-width: 300px;
   }
+
+#sec-6 {
+    margin: auto;
+    text-align: center;
+}
+
+#sec-6 h2 {
+    background-color: #2b3345;
+    color: #474646;
+    border: 1px solid;
+    width: 20%;
+    color: white;
+    margin: auto;
+    border-radius: 52px;
+    padding: 8px;
+}
+
+#sec-6 img { 
+    width: 15%;
+    display: flex;
+    margin: auto;
+}

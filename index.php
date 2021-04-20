@@ -290,6 +290,13 @@
             </div>
         </div>
     </section>
+    <section id="sec-6">
+        <div class="veille">
+            <h2>Métohode de veille : </h2>
+            <img src="assets/images/feedly.png" alt="feedly logo">
+            <img src="assets/images/twitter.png" alt="twiteer logo">
+        </div>
+    </section>
 
 
     <section>

@@ -40,4 +40,9 @@
         width: 100%;
         float: none;
     }
+    
+    #sec-4 .realisations {
+        float: left;
+        display: inline-flex;
+    }
   }

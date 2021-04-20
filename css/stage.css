@@ -71,6 +71,8 @@ div.gallery {
     text-align: center;
 }
 
+/* SECTION 3*/
+
 #sec-3 {
     margin-top: 80px;
 }
@@ -93,6 +95,8 @@ div.gallery {
     margin-left: 5px;
     display: contents;
 }
+
+/* SECTION 4 */
 
 #sec-4 {
     margin: auto;
@@ -138,6 +142,9 @@ div.gallery {
     display: flex;
     justify-content: space-evenly;
 }
+#sec-4 .photo img:nth-child(1) {
+    width: 22%;
+}
 
 #sec-4 .photo img:nth-child(2) {
     position: absolute;
@@ -148,4 +155,97 @@ div.gallery {
 #sec-4 .photo img:nth-child(3) {
     margin-top: 35px;
     width: 17%;
+}
+
+li {
+    text-align: left;
+}
+
+#sec-4 .realisations a{
+    display: inline-grid;
+}
+
+/* SECTION 5*/
+
+#sec-5 {
+    margin: auto;
+    margin-top: 15%;
+    width: 80%;
+}
+
+#sec-5 .container {
+    text-align: -webkit-center;
+}
+
+div.gallery {
+    margin: 10px;
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    display: inline-block;
+    width: 395px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+    box-shadow: -2px 7px 93px -10px rgba(0,0,0,0.75);
+  }
+
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+
+section #services {
+    text-align: center;
+    background-color: #2b3345;
+    transform: translatez(0);
+    position: absolute;
+    width: -webkit-fill-available;
+  }
+  section #services h2 {
+    margin: 80px 0px 40px;
+    color: #fff;
+    font-size: 2.4em;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  section #services li {
+    width: 120px;
+    display: inline-block;
+    margin: 20px;
+    list-style: none;
+  }
+  section #services li div {
+    width: 75px;
+    font-size: 2.4em;
+    text-align: center;
+    line-height: 75px;
+    background-color: #15171dd6;
+    border-radius: 20px;
+    transition: all 0.5s ease;;
+    transition: all 0.5s ease;
+  }
+  section #services li a {
+    color: #fff;
+  }
+  section #services li div:hover {
+    transform: rotate(360deg);
+    border-radius: 100px;
+  }
+  section #services h3 {
+      color: #fff;
+      text-align: center;
+      margin-right: 30px;
+  }
+  section #services h4 {
+    color: #fff;
+    margin-right: 30px;
+    text-align: center;
 }
