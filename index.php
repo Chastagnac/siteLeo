@@ -44,7 +44,7 @@
             <div class="image__overlay">
                 <h1 class="title">Qui suis-je ?</h1>
                 <div class="texte">
-                    <p><strong>Léo Chastagnac</strong>, 19 ans, passionné par l'informatique et les différentes technologies qui composent ce domaine. Assidu dans mon travail, j'ambitionne
+                    <p><strong>Léo Chastagnac</strong>, 19 ans, passionné par l'informatique et les différentes technologies qui comporte ce domaine. Assidu dans mon travail, j'ambitionne
                         de poursuivre mes études en <strong>licence 3 MIAGE</strong> sous contrat d'apprentissage ou de professionnalisation.
                         Etant passionné de sport, cela m'a permis d'acquérir une <strong>rigueur</strong> et un <strong>travail d'équipe</strong>.</p>
                 </div>
@@ -139,7 +139,7 @@
                     </div>
                     <div class="col-4">
                         <div class="profession"><br>Stage en Développement Web </div>
-                        <div class="details">Medley d'ajout de fonctionnalité sur un site web. Utilisation du langage Php, Curl, JavaScript.
+                        <div class="details">Medley d'ajout de fonctionnalités sur un site web. Utilisation du langage Php, Curl, JavaScript.
                         </div>
                     </div>
                 </div>
@@ -152,9 +152,9 @@
                         <div class="date">depuis mai 2019</div>
                     </div>
                     <div class="col-2">
-                        <div class="profession"><br>Contract étudiant</div>
-                        <div class="details">Mise en place de la marchandise, encadrement de personnel
-                            achats auprès de grossistes.
+                        <div class="profession"><br>Contrat étudiant</div>
+                        <div class="details">Mise en place de la marchandise, encadrement de personnel et 
+                        achats auprès de grossistes.
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                     <hr>
                 </div>
                 <br>
-                <h2 clas="sco">Centre d'intétêt</h2>
+                <h2 clas="sco">Centres d'intérêt</h2>
                 <div class="experience">
                     <div class="col-1">
                         <div class="lieu">Musique</div>
@@ -245,7 +245,7 @@
                     <div class="col-2">
                         <div class="profession"><br>En autodidacte</div>
                         <div class="details">Depuis mes 14 ans, je suis passionné de guitare (classique, acoustique, électrique...)
-                            j'aime pouvoir créer, improviser, ou encore repprendre des musiques que j'affectionne particulièrement.
+                            j'aime pouvoir créer, improviser, ou encore reprendre des musiques que j'affectionne particulièrement.
 
                         </div>
                     </div>
@@ -258,8 +258,8 @@
                     </div>
                     <div class="col-2">
                         <div class="profession"><br>Musculation / Street Workout</div>
-                        <div class="details">Grâce à la musculation que je pratique depuis mon jeune age, j'ai pu acquérir une
-                            réelle discipline dans ce que j'entreprend mais également connaitre le fonctionnement de corps, ses capacités comme ses limites.
+                        <div class="details">Grâce à la musculation que je pratique depuis mon jeune âge, j'ai pu acquérir une
+                            réelle discipline dans ce que j'entreprend mais également connaitre le fonctionnement de mon corps, ses capacités comme ses limites.
                         </div>
                     </div>
                 </div>
@@ -272,7 +272,7 @@
                 <div>
                     <span class="fa fa-laptop-code"></span>
                     <h4>Projet</h4>
-                    <p>Retrouvez des projets d'étudiant mais également des projets personnel !</p>
+                    <p>Retrouvez des projets d'étudiant mais également des projets personnels !</p>
                     <button class="btn" onclick="window.location.href='page/project.php'">
                         Y aller
                     </button>

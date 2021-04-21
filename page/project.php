@@ -36,7 +36,7 @@
                 <h2>Objectif : </h2>
                 <p>Suite à une récente fusion le laboratoire Galaxy Swiss Bourdin souhaite uniformiser la gestion des frais professionnels des visiteurs médicaux via le développement en interne d’une
                     application WEB intitulée Gsb-AppliFrais. Cette application est destinée à la fois aux visiteurs médicaux et aux comptables en charges de leur gestion. Elle permet de saisir et d’enregistrer tous les frais
-                    engagss par les visiteurs médicaux aussi bien pour l’activité directe (déplacement, restauration et hébergement) que pour les activités annexes (événementiel, conférences, autres).</p>
+                    engagés par les visiteurs médicaux aussi bien pour l’activité directe (déplacement, restauration et hébergement) que pour les activités annexes (événementiel, conférences, autres).</p>
             </div>
             <div class="outils">
                 <h2>Outils, langages et logiciels :</h2>
@@ -178,11 +178,11 @@
             <img src="../assets/images/unityicon.png" alt="image du logo unity">
             <div class="objectif">
                 <h2>Objectif : </h2>
-                <p>Pour continuer dans notre lancé, en parallèle du stage
-                    de seconde année, nous avons créée un nouveau jeux se
-                    nommant Field Of War. C’est un jeu de domination ou l’on
+                <p>Pour continuer dans notre lancée, en parallèle du stage
+                    de seconde année, nous avons créé un nouveau jeu se
+                    nommant Field Of War. C’est un jeu de domination où l’on
                     invoque des combattants avec l’argent récolté afin de
-                    conquérir la base ennemis et ainsi passer les niveaux.</p>
+                    conquérir la base ennemie et ainsi passer les niveaux.</p>
             </div>
             <div class="outils">
                 <h2>Outils, langages et logiciels :</h2>
@@ -214,7 +214,7 @@
             <div class="objectif">
                 <h2>Objectif : </h2>
                 <p>Durant mon contrat d'étudiant, j'ai eu l'occasion de produire le site de la Petite Provence
-                    ce qui m'a permis d'exposer une meilleure visibilité aux magasins.
+                    ce qui a permis au magasin de conquérir une nouvelle clientelle qui est celle du numérique et de fidéliser les clients actuels.
                 </p>
             </div>
             <div class="outils">
@@ -245,12 +245,12 @@
             <img src="../assets/images/imgbox/blanc.jpg" alt="image du logo complementbox">
             <div class="objectif">
                 <h2>Objectif : </h2>
-                <p>Complement'Box est une box mensuel de compléments alimentaires vous permettant de
-                    découvrir de nouveaux compléments basé sur la naturopathie afin d'équilibrer le
+                <p>Complement'Box est une box mensuelle de compléments alimentaires vous permettant de
+                    découvrir de nouveaux compléments basés sur la naturopathie afin d'équilibrer le
                     fonctionnement de l'organisme par des moyens vus comme « naturels ».
                     <br>
-                    Vous obtiendrez également un magazine sur comment les utilisés leurs
-                    utilités ainsi qu'un suivi sportif tout au long du mois.
+                    Vous obtiendrez également un magazine portant sur la façon de consommer ces 
+                    compléments ainsi qu'un suivi sportif tout au long du mois.
                 </p>
             </div>
             <div class="outils">
