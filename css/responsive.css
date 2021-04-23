@@ -83,6 +83,9 @@
     margin-top: 50%;
     width: 100%;
   }
+  .slogan {
+    line-height: 81%;
+  }
 
   .container2 {
     margin: 15px;
