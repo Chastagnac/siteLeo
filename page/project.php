@@ -166,8 +166,8 @@
     </section>
     <section id="sec-13">
         <div class="pic-ctn">
-            <img src="../assets/images/imggsb/1.PNG" alt="" class="pic">
-            <img src="../assets/images/imggsb/2.png" alt="" class="pic">
+            <img src="../assets/images/mdl/1.png" alt="" class="pic">
+            <img src="../assets/images/mdl/2.png" alt="" class="pic">
             <img src="../assets/images/imggsb/3.png" alt="" class="pic">
         </div>
     </section>
@@ -265,7 +265,6 @@
                 <h2>Réalisations : </h2>
                 <a target="_blank" href="http://www.complementbox.com/">
                     <i class="fas fa-link"></i>Futur site "Complement'Box"</a><br>
-
             </div>
         </div>
     </section>
