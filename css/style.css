@@ -78,7 +78,10 @@ body {
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
-
+#sec-5 .box .container5 .boxtittle {
+    background-color: #1d1d1d00;
+    width: 100%;
+}
 .img2 {
     height: 109px;
     margin-right: 180px;

@@ -293,10 +293,14 @@ margin-left: 20%;
 
 #sec-5 {
   display: inline-block;
-  margin-top: 48%;
+  margin-top: 58%;
   max-width: 100%;
 }
-
+#sec-5 .container{
+  display: flex;
+  width: 80%;
+  margin: auto;
+}
 .pic-ctn {
   width: 100vw;
   height: 200px;
@@ -437,8 +441,7 @@ float: left;
   
 
 #sec-9 {
-  display: inline-block;
-  margin-top: 42%;
+  margin-top: 53%;
   max-width: 100%;
 }
 
@@ -524,12 +527,17 @@ margin-left: 20%;
 }
 
 #sec-13 {
-  display: inline-block;
-  margin-top: 45%;
+  margin-top: 53%;
   max-width: 100%;
 }
 
+#sec-13 .container {
+  text-align: -webkit-center;
+}
 
+#sec-9 .container {
+  text-align: -webkit-center;
+}
 
 /* SECTION 8 */
 

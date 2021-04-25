@@ -128,18 +128,36 @@
                     <li>Android Studio</li>
                 </ul>
             </div>
-            <div class="realisations">
-                <h2>Réalisations : </h2>
-                <a target="_blank" href="../assets/images/projectpdf/">
-                    <i class="fa fa-file-pdf-o"></i>Documentation technique</a><br>
-            </div>
         </div>
     </section>
     <section id="sec-5">
-        <div class="pic-ctn">
-            <img src="../assets/images/imgtennis/1.png" alt="tenis" class="pic" style="margin-left : 280px;">
-            <img src="../assets/images/imgtennis/2.png" alt="tenis" class="pic" style="margin-left : 280px;">
-            <img src="../assets/images/imgtennis/3.png" alt="tenis" class="pic" style="margin-left : 280px;">
+        <div class="container">
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgtennis/15.png">
+                    <img src="../assets/images/imgtennis/15.png" alt="tennis png" width="600" height="400"> </a>
+                <div class="desc">Accueil</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgtennis/11.png">
+                    <img src="../assets/images/imgtennis/11.png" alt="tennis png" width="600" height="400">
+                </a>
+                <div class="desc">Historique</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgtennis/12.png">
+                    <img src="../assets/images/imgtennis/12.png" alt="tennis png" width="600" height="400"> </a>
+                <div class="desc">Match</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgtennis/13.png">
+                    <img src="../assets/images/imgtennis/13.png" alt="tennis png" width="600" height="400"> </a>
+                <div class="desc">Match en AD</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgtennis/14.png">
+                    <img src="../assets/images/imgtennis/14.png" alt="tennis png" width="600" height="400"> </a>
+                <div class="desc">Séléction du joueur</div>
+            </div>
         </div>
     </section>
     <section id="sec-12">
@@ -148,13 +166,18 @@
             <img src="../assets/images/mdl/mdl.png" alt="image du logo mdl">
             <div class="objectif">
                 <h2>Objectif : </h2>
-                <p>La Maison des Ligues a pour mission de fournir des espaces et des services aux différentes ligues sportives régionales et à d’autres structures hébergées. La M2L est une structure financée par le Conseil Régional de Lorraine dont l’administration est déléguée au Comité Régional Olympique et Sportif de Lorraine (CROSL).</p>
+                <p>La Maison des Ligues a pour mission de fournir des espaces et des services aux différentes ligues sportives régionales et à d’autres structures hébergées. La M2L est une structure financée par le Conseil Régional de Lorraine dont l’administration est déléguée au Comité Régional Olympique et Sportif de Lorraine (CROSL).
+                    <br>
+                    Le principe est de réaliser une application web permettant à l'utilisateur de s'inscrire pour à un événement.
+                </p>
             </div>
             <div class="outils">
                 <h2>Outils, langages et logiciels :</h2>
                 <ul>
                     <li>Symfony</li>
+                    <li>Twig</li>
                     <li>Vs Code</li>
+                    <li>Linux</li>
                 </ul>
             </div>
             <div class="realisations">
@@ -165,10 +188,19 @@
         </div>
     </section>
     <section id="sec-13">
-        <div class="pic-ctn">
-            <img src="../assets/images/mdl/1.png" alt="" class="pic">
-            <img src="../assets/images/mdl/2.png" alt="" class="pic">
-            <img src="../assets/images/imggsb/3.png" alt="" class="pic">
+        <div class="container">
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/mdl/1.png">
+                    <img src="../assets/images/mdl/1.png" alt="magazine2 png" width="600" height="400">
+                </a>
+                <div class="desc">Page de connexion</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/mdl/2.png">
+                    <img src="../assets/images/mdl/2.png" alt="magazine2 png" width="600" height="400">
+                </a>
+                <div class="desc">Page d'inscription</div>
+            </div>
         </div>
     </section>
     <section id="sec-8">
@@ -193,18 +225,28 @@
                     <li>Photoshop</li>
                 </ul>
             </div>
-            <div class="realisations">
-                <h2>Réalisations : </h2>
-                <a target="_blank" href="../assets/images/projectpdf/Cahier_des_charges_Unity.pdf">
-                    <i class="fa fa-file-pdf-o"></i>Cahier des charges</a><br>
-            </div>
         </div>
     </section>
     <section id="sec-9">
-        <div class="pic-ctn">
-            <img src="../assets/images/imgunity2/1.PNG" alt="" class="pic">
-            <img src="../assets/images/imgunity2/2.PNG" alt="" class="pic">
-            <img src="../assets/images/imgunity2/3.PNG" alt="" class="pic">
+        <div class="container">
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgunity2/1.PNG">
+                    <img src="../assets/images/imgunity2/1.PNG" alt="magazine2 png" width="600" height="400">
+                </a>
+                <div class="desc">Combat dans la forêt</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgunity2/2.PNG">
+                    <img src="../assets/images/imgunity2/2.PNG" alt="magazine2 png" width="600" height="400">
+                </a>
+                <div class="desc">Combat dans sur glace</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imgunity2/2.PNG">
+                    <img src="../assets/images/imgunity2/3.PNG" alt="magazine2 png">
+                </a>
+                <div class="desc">Combat dans le desert</div>
+            </div>
         </div>
     </section>
     <section id="sec-10">
@@ -249,7 +291,7 @@
                     découvrir de nouveaux compléments basés sur la naturopathie afin d'équilibrer le
                     fonctionnement de l'organisme par des moyens vus comme « naturels ».
                     <br>
-                    Vous obtiendrez également un magazine portant sur la façon de consommer ces 
+                    Vous obtiendrez également un magazine portant sur la façon de consommer ces
                     compléments ainsi qu'un suivi sportif tout au long du mois.
                 </p>
             </div>

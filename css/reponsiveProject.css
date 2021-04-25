@@ -7,7 +7,11 @@
         text-align: justify;
         font-size: 1em;
     }
-
+    #sec-5 .container {
+        display: flex;
+        margin: auto;
+        flex-direction: column;
+      }
     .bandeau h3 {
         text-align: center;
         margin-left: auto;

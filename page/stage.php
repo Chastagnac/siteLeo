@@ -24,7 +24,13 @@
         <h1>Unity</h1>
         <div class="container">
             <p> Le BTS Services Informatiques aux Organisations offre la possibilité d'effectuer 2 stages en entreprise durant le cursus. Néanmoins, suite au Covid, notre stage de première année s'est vu annulé
-                Pour pallier à ce manque, nous avons organisé un groupe de travail pour créer un jeu 2d : Alban's Adventure.
+                Pour pallier à ce manque, nous avons organisé un groupe de travail pour créer un jeu 2d : Advin's Adventure.
+                <br>
+            <div class="rea">
+                <h3>Réalisations : </h3>
+                <a target="_blank" href="../assets/images/projectpdf/Cahier_des_charges_Unity.pdf">
+                    <i class="fa fa-file-pdf-o"></i>Cahier des charges<br></a>
+            </div>
             </p>
         </div>
         <img src="../assets/images/unityicon.png" alt="image du logo unity">
@@ -83,7 +89,12 @@
                 </p>
             </div>
         </div>
+        <a target="_blank" href="../assets/images/imgunity/anim.png">
+            <img src="../assets/images/imgunity/anim.png" class="imga" alt="img de l'interace de unity" width="600" height="400">
+        </a>
     </div>
+
+
     <section id="sec-4">
         <hr>
         <br>
@@ -95,6 +106,12 @@
                 <br>
                 Leur but est de répondre aux besoins des entrepreneurs et travailleurs indépendants
                 en proposant un outil accessible et complet afin de faciliter la gestion de leur activité.
+                <br>
+            <div class="rea">
+                <h3>Réalisations : </h3>
+                <a target="_blank" href="../assets/images/projectpdf/crevooliz.pdf">
+                    <i class="fa fa-file-pdf-o"></i>Compte rendu<br></a>
+            </div>
             </p>
         </div>
         <img src="../assets/images/imgevoliz/logo.jpg" alt="image du logo evoliz">
@@ -110,11 +127,7 @@
                 <li>Docker</li>
             </ul>
         </div>
-        <div class="realisations">
-            <h2>Réalisations : </h2>
-            <a target="_blank" href="../assets/images/projectpdf/crevooliz.pdf">
-                <i class="fa fa-file-pdf-o"></i>Compte rendu<br></a>
-        </div>
+
         <div class="photo">
             <img src="../assets/images/imgevoliz/js.png" alt="image du logo evoliz">
             <img src="../assets/images/imgevoliz/php.png" alt="image du logo evoliz">

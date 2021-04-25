@@ -44,9 +44,9 @@
             <div class="image__overlay">
                 <h1 class="title">Qui suis-je ?</h1>
                 <div class="texte">
-                    <p><strong>Léo Chastagnac</strong>, 19 ans, passionné par l'informatique et les différentes technologies qui comporte ce domaine. Assidu dans mon travail, j'ambitionne
+                    <p><strong>Léo Chastagnac</strong>, 19 ans, passionné par l'informatique et les différentes technologies qui composent ce domaine. Assidu dans mon travail, j'ambitionne
                         de poursuivre mes études en <strong>licence 3 MIAGE</strong> sous contrat d'apprentissage ou de professionnalisation.
-                        Etant passionné de sport, cela m'a permis d'acquérir une <strong>rigueur</strong> et un <strong>travail d'équipe</strong>.</p>
+                        Etant passionné de sport, cela m'a permis d'acquérir de la <strong>rigueur</strong> et <strong>l'expérience du travail en équipe</strong>.</p>
                 </div>
                 <a class="btncv" target="_blank" href="../assets/cv.pdf">
                     Afficher mon cv
@@ -60,69 +60,87 @@
         </div>
         <div class="box">
             <div class="container5">
+                <H2 class="boxtittle">Web</H2>
                 <div class="content">
                     <span>PHP</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_1" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>75%</p>
+                    <img src="assets/images/competences/php.png" height="150" width="150" style="margin-top: 50px;margin-left: 10px;margin-right: 10px;">
                 </div>
                 <div class="content">
-                    <span>HTML/CSS/JS</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_2" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>70%</p>
+                    <span>HTML</span>
+                    <img src="assets/images/competences/HTML5_Badge.svg.png" height="150" width="150" style="margin-top : 50px">
                 </div>
                 <div class="content">
-                    <span>Algorithmie</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_3" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>75%</p>
+                    <span>CSS</span>
+                    <img src="assets/images/competences/css.png" height="150" width="150" style="margin-top : 50px">
                 </div>
                 <div class="content">
-                    <span>SQL</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_4" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>60%</p>
+                    <span>JavaScript</span>
+                    <img src="assets/images/competences/js.png" height="150" width="150" style="margin-top : 50px">
                 </div>
                 <div class="content">
-                    <span>Unity/C#</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_5" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>80%</p>
+                    <span>Symfony</span>
+                    <img src="assets/images/competences/symfony.svg" height="150" width="150" style="margin-top: 50px;margin-left: 10px;margin-right: 10px;">
+                </div>
+                <hr>
+                <br>
+                <H2 class="boxtittle">Base de données</H2>
+                <div class="content">
+                    <span>Oracle</span>
+                    <img src="assets/images/competences/oracle.png" height="150" width="150" style="margin-top : 50px">
                 </div>
                 <div class="content">
-                    <span>Réseaux</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_6" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>55%</p>
+                    <span>Sql</span>
+                    <img src="assets/images/competences/sql.png" height="150" width="150" style="margin-top : 50px">
                 </div>
                 <div class="content">
-                    <span>Suite Office</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_7" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>90%</p>
+                    <span>Maria DB</span>
+                    <img src="assets/images/competences/mariadb.gif" height="150" width="150" style="margin-top : 50px">
                 </div>
                 <div class="content">
-                    <span>Sony Vegas</span>
-                    <svg>
-                        <circle cx="70" cy="70px" r="70px"></circle>
-                        <circle class="circle_8" cx="70" cy="70px" r="70px"></circle>
-                    </svg>
-                    <p>95%</p>
+                    <span>MySql</span>
+                    <img src="assets/images/competences/mysql-logo.svg" height="150" width="150" style="margin-top : 50px">
+                </div>
+                <hr>
+                <br>
+                <H2 class="boxtittle">Logiciels / Applications</H2>
+                <div class="content">
+                    <span>Unity</span>
+                    <img src="assets/images/unityicon.png" height="150" width="150" style="margin-top : 50px">
+                </div>
+                <div class="content">
+                    <span>C#</span>
+                    <img src="assets/images/competences/c.png" height="150" width="130" style="margin-top : 50px;margin-left: 10px;margin-right: 10px;">
+                </div>
+                <div class="content">
+                    <span>Java</span>
+                    <img src="assets/images/competences/java.png" height="150" width="140" style="margin-top : 50px;margin-left: 10px;margin-right: 10px;">
+                </div>
+                <div class="content">
+                    <span>Java</span>
+                    <img src="assets/images/competences/python.png" height="150" width="140" style="margin-top : 50px;margin-left: 10px;margin-right: 10px;">
+                </div>
+                <hr>
+                <br>
+                <H2 class="boxtittle">Gestion de projet</H2>
+                <div class="content">
+                    <span>Git</span>
+                    <img src="assets/images/competences/Gitpng.png" height="150" width="150" style="margin-top : 50px">
+                </div>
+                <div class="content">
+                    <span>GitHub</span>
+                    <img src="assets/images/competences/github.svg" height="150" width="150" style="margin-top: 50px;margin-left: 10px;margin-right: 10px;">
+                </div>
+                <div class="content">
+                    <span>TDD</span>
+                    <img src="assets/images/competences/tdd.svg" height="150" width="150" style="margin-top : 50px">
+                </div>
+                <div class="content">
+                    <span>Kanban</span>
+                    <img src="assets/images/competences/kanban.png" height="150" width="150" style="margin-top : 50px">
+                </div>
+                <div class="content">
+                    <span>UML</span>
+                    <img src="assets/images/competences/uml.png" height="150" width="150" style="margin-top : 50px">
                 </div>
             </div>
         </div>
@@ -153,8 +171,8 @@
                     </div>
                     <div class="col-2">
                         <div class="profession"><br>Contrat étudiant</div>
-                        <div class="details">Mise en place de la marchandise, encadrement de personnel et 
-                        achats auprès de grossistes.
+                        <div class="details">Mise en place de la marchandise, encadrement de personnel et
+                            achats auprès de grossistes.
                         </div>
                     </div>
                 </div>

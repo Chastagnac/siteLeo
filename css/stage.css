@@ -21,6 +21,10 @@ body {
     height: 10%;
 }
 
+#sec-1 .rea {
+    margin-left: 9px;
+}
+
 #sec-1 .container {
     border-left: groove;
     float: left;
@@ -96,7 +100,22 @@ div.gallery {
     display: contents;
 }
 
+#sec-3 .realisations {
+    margin-top: 20px;
+}
+
+.imganim {
+    margin: auto;
+    height: 500px;
+    margin-top: 128px;
+    border-radius: 5px;
+    max-width: 100%;
+}
+
 /* SECTION 4 */
+#sec-4 .rea {
+    margin-left: 9px;
+}
 
 #sec-4 {
     margin: auto;
