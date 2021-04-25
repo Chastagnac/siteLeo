@@ -131,6 +131,10 @@
                     <img src="assets/images/competences/github.svg" height="150" width="150" style="margin-top: 50px;margin-left: 10px;margin-right: 10px;">
                 </div>
                 <div class="content">
+                    <span>GitHub</span>
+                    <img src="assets/images/competences/bit.png" height="150" width="150" style="margin-top: 50px;">
+                </div>
+                <div class="content">
                     <span>TDD</span>
                     <img src="assets/images/competences/tdd.svg" height="150" width="150" style="margin-top : 50px">
                 </div>
