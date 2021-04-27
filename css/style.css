@@ -23,6 +23,12 @@ body {
     color: #474646;
     border : 1px solid;
 }
+
+#sec-2 .btncv:nth-child(2n) {
+    display: table;
+    margin-top: 19px;
+}
+
 .logo img {
     max-width: 100%;
     margin: 5px;

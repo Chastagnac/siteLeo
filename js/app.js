@@ -114,7 +114,7 @@ sr.reveal("#sec-4", {
 
 
 sr.reveal("#sec-6", {
-    origin: "left",
+    origin: "top",
     distance: "100px",
     duration: 1550,
     dalay: 1000
@@ -122,7 +122,7 @@ sr.reveal("#sec-6", {
 
 
 sr.reveal("#sec-8", {
-    origin: "left",
+    origin: "top",
     distance: "100px",
     duration: 1550,
     dalay: 1000
@@ -137,3 +137,16 @@ sr.reveal("#sec-10", {
     dalay: 1000
 }, 1000);
 
+sr.reveal("#sec-12", {
+    origin: "left",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);
+
+sr.reveal("#sec-14", {
+    origin: "left",
+    distance: "100px",
+    duration: 1550,
+    dalay: 1000
+}, 1000);

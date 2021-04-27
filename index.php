@@ -51,6 +51,9 @@
                 <a class="btncv" target="_blank" href="../assets/cv.pdf">
                     Afficher mon cv
                 </a>
+                <a class="btncv" target="_blank" href="../assets/tableau_Synthèse.pdf">
+                    Tableau de Synthèse BTS SIO
+                </a>
             </div>
         </div>
     </section>
