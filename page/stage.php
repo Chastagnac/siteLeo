@@ -23,7 +23,7 @@
         <h2>Stage de BTS SIO</h2>
         <h1>Unity</h1>
         <div class="container">
-            <p> Le BTS Services Informatiques aux Organisations offre la possibilité d'effectuer 2 stages en entreprise durant le cursus. Néanmoins, suite au Covid, notre stage de première année s'est vu annulé
+            <p> Le BTS Services Informatiques aux Organisations offre la possibilité d'effectuer 2 stages en entreprise durant le cursus. Néanmoins, suite au Covid, notre stage de première année s'est vu annulé.
                 Pour pallier à ce manque, nous avons organisé un groupe de travail pour créer un jeu 2d : Advin's Adventure.
                 <br>
             <div class="rea">
@@ -87,12 +87,16 @@
                 <p>Unity 3D est un moteur 3D. C’est un logiciel permettant de créer des jeux vidéo 2D ou 3D. Il s’apparente à un logiciel de modélisation 3D comme Blender : il intègre donc une partie graphique et une partie programmation pour la création des projets.
                     <br>Ce moteur à la fois un outil orienté graphisme, avec une interface agréable à prendre en main et orienté programmation avec une API très complète.
                     Unity3D est un moteur puissant mais accessible. Afin d’accéder à toutes les potentialités qu’il offre et de créer un contenu réellement interactif, la programmation s’impose : sous Unity, tout est « scriptable », notamment grâce au langage C#.
-                    <br>En résumé, Unity permet de créer tout type de contenu, allant de tous les genres de jeux vidéo à l’application pour tablette/smartphone en passant par le site internet en HTML5.
+                    <br>
                 </p>
             </div>
         </div>
         <a target="_blank" href="../assets/images/imgunity/anim.png">
+            <p class="othertexte">
+                En résumé, Unity permet de créer tout type de contenu, allant de tous les genres de jeux vidéo à l’application pour tablette/smartphone en passant par le site internet en HTML5.
+            </p>
             <img src="../assets/images/imgunity/anim.png" class="imga" alt="img de l'interace de unity" width="600" height="400">
+
         </a>
     </div>
 

@@ -119,7 +119,7 @@
                     <img src="assets/images/competences/java.png" height="150" width="140" style="margin-top : 50px;margin-left: 10px;margin-right: 10px;">
                 </div>
                 <div class="content">
-                    <span>Java</span>
+                    <span>Python</span>
                     <img src="assets/images/competences/python.png" height="150" width="140" style="margin-top : 50px;margin-left: 10px;margin-right: 10px;">
                 </div>
                 <hr>
@@ -307,7 +307,7 @@
                 <div>
                     <span class="fa fa-rss-square"></span>
                     <h4>Stage</h4>
-                    <p>Suivez les différentes pratiques et évolution au cours de mon stage !</p>
+                    <p>Suivez les différentes pratiques et évolutions au cours de mon stage !</p>
                     <button class="btn" onclick="window.location.href='page/stage.php'">
                         Y aller
                     </button>
@@ -317,7 +317,7 @@
     </section>
     <section id="sec-6">
         <div class="veille">
-            <h2>Métohode de veille : </h2>
+            <h2>Méthodes de veille : </h2>
             <img src="assets/images/feedly.png" alt="feedly logo">
             <img src="assets/images/twitter.png" alt="twiteer logo">
         </div>

@@ -23,8 +23,8 @@
         </div>
         <div class="bandeau">
             <h3>Projets</h3>
-            <p>Vous trouverez ici des projets d'étudiant mais
-            <p>également des projets personnels.</p>
+            <p>Vous trouverez ici des projets d'étudiant ainsi
+            <p>que des projets personnels.</p>
         </div>
     </section>
     <section id="sec-2">
@@ -56,7 +56,7 @@
                     <i class="fa fa-file-pdf-o"></i>Documentation fonctionnelle<br></a>
                 <a target="_blank" href="../assets/images/projectpdf/compteRendu.pdf">
                     <i class="fa fa-file-pdf-o"></i>Compte rendu<br></a>
-                <a target="_blank" href="../assets/images/projectpdf/compteRendu.pdf">
+                <a target="_blank" href="https://github.com/Chastagnac/GSB_PPE">
                     <i class="fab fa-github"></i>GitHub<br></a>
                 <a target="_blank" href="../assets/images/imggsb/test.png">
                     <i class="fa fa-file-o"></i>Tests TDD<br></a>
