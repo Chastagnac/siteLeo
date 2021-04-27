@@ -131,7 +131,7 @@
                     <img src="assets/images/competences/github.svg" height="150" width="150" style="margin-top: 50px;margin-left: 10px;margin-right: 10px;">
                 </div>
                 <div class="content">
-                    <span>GitHub</span>
+                    <span>BitBucket</span>
                     <img src="assets/images/competences/bit.png" height="150" width="150" style="margin-top: 50px;">
                 </div>
                 <div class="content">
@@ -280,8 +280,8 @@
                     </div>
                     <div class="col-2">
                         <div class="profession"><br>Musculation / Street Workout</div>
-                        <div class="details">Grâce à la musculation que je pratique depuis mon jeune âge, j'ai pu acquérir une
-                            réelle discipline dans ce que j'entreprend mais également connaitre le fonctionnement de mon corps, ses capacités comme ses limites.
+                        <div class="details">Grâce à la musculation que je pratique depuis mon plus jeune âge, j'ai pu acquérir une
+                            réelle discipline dans ce que j'entreprends mais également connaitre le fonctionnement de mon corps, ses capacités comme ses limites.
                         </div>
                     </div>
                 </div>

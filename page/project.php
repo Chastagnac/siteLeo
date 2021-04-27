@@ -56,6 +56,10 @@
                     <i class="fa fa-file-pdf-o"></i>Documentation fonctionnelle<br></a>
                 <a target="_blank" href="../assets/images/projectpdf/compteRendu.pdf">
                     <i class="fa fa-file-pdf-o"></i>Compte rendu<br></a>
+                <a target="_blank" href="../assets/images/projectpdf/compteRendu.pdf">
+                    <i class="fab fa-github"></i>GitHub<br></a>
+                <a target="_blank" href="../assets/images/imggsb/test.png">
+                    <i class="fa fa-file-o"></i>Tests TDD<br></a>
             </div>
         </div>
     </section>
@@ -184,6 +188,8 @@
                 <h2>Réalisations : </h2>
                 <a target="_blank" href="../assets/images/projectpdf/mdl.pdf">
                     <i class="fa fa-file-pdf-o"></i>Contexte</a><br>
+                <a target="_blank" href="https://github.com/AdrienP83/PPE-MaisonDesLigues">
+                    <i class="fab fa-github"></i>GitHub</a><br>
             </div>
         </div>
     </section>
@@ -275,10 +281,26 @@
         </div>
     </section>
     <section id="sec-11">
-        <div class="pic-ctn">
-            <img src="../assets/images/imglpp/1.png" alt="" class="pic">
-            <img src="../assets/images/imglpp/2.png" alt="" class="pic">
-            <img src="../assets/images/imglpp/3.png" alt="" class="pic">
+        <div class="container">
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imglpp/1.png">
+                    <img src="../assets/images/imglpp/1.png" alt="magazine2 png" width="600" height="400">
+                </a>
+                <div class="desc">Page d'acceuil</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imglpp/3.png">
+                    <img src="../assets/images/imglpp/3.png" alt="magazine2 png" width="600" height="400">
+                </a>
+                <div class="desc">Page de contact</div>
+            </div>
+            <div class="gallery">
+                <a target="_blank" href="../assets/images/imglpp/2.png">
+                    <img src="../assets/images/imglpp/2.png" alt="magazine2 png" width="600" height="400">
+                </a>
+                <div class="desc">Page sur la qualité et le goût</div>
+            </div>
+
         </div>
     </section>
     <section id="sec-14">

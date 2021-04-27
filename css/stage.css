@@ -112,6 +112,25 @@ div.gallery {
     max-width: 100%;
 }
 
+.fab.fa-github:hover {
+    color: red;
+  }
+  
+.fab.fa-github {
+    margin: 8px;
+    color : #2b3345;
+  }
+
+
+  
+.fa.fa-file-pdf-o:hover {
+    color: red;
+}
+  
+  .fa.fa-file-pdf-o {
+    margin: 10px;
+    color : #2b3345;
+  }
 /* SECTION 4 */
 #sec-4 .rea {
     margin-left: 9px;

@@ -484,10 +484,13 @@ margin: 10px;
   
 
 #sec-11 {
-  display: inline-block;
   max-width: 100%;
+  margin-top: 20%;
 }
 
+#sec-11 .container {
+  text-align: -webkit-center;
+}
 
 /* SECTION 7 */
 
@@ -575,9 +578,23 @@ float: left;
 margin-left: 20%;
 }
 
+.fab.fa-github:hover {
+  color: red;
+}
 
+.fab.fa-github {
+  margin: 8px;
+  color : #2b3345;
+}
 
+.fa.fa-file-o {
+  margin: 8px;
+  color : #2b3345;
+}
 
+.fa.fa-file-o:hover {
+  color: red;
+}
 .fa.fa-file-pdf-o:hover {
   color: red;
 }

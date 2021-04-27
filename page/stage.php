@@ -30,6 +30,8 @@
                 <h3>Réalisations : </h3>
                 <a target="_blank" href="../assets/images/projectpdf/Cahier_des_charges_Unity.pdf">
                     <i class="fa fa-file-pdf-o"></i>Cahier des charges<br></a>
+                <a target="_blank" href="https://github.com/AlphaProgramming/Unity-AOW">
+                    <i class="fab fa-github"></i>GitHub</a><br>
             </div>
             </p>
         </div>
