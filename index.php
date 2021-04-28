@@ -320,6 +320,7 @@
             <h2>Méthodes de veille : </h2>
             <img src="assets/images/feedly.png" alt="feedly logo">
             <img src="assets/images/twitter.png" alt="twiteer logo">
+            <img src="assets/images/YouTube-logo.png" alt="twiteer logo">
         </div>
     </section>
 
